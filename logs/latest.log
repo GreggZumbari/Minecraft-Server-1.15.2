@@ -1,0 +1,513 @@
+[17:29:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:29:09] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:29:09] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:29:09] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:29:09] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[17:29:09] [Server thread/INFO]: Loading properties
+[17:29:09] [Server thread/INFO]: Default game type: SURVIVAL
+[17:29:09] [Server thread/INFO]: Generating keypair
+[17:29:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:29:09] [Server thread/INFO]: Using default channel type
+[17:29:10] [Server thread/INFO]: Preparing level "world"
+[17:29:10] [Server thread/INFO]: Reloading ResourceManager: Default
+[17:29:11] [Server thread/INFO]: Loaded 6 recipes
+[17:29:11] [Server thread/INFO]: Loaded 825 advancements
+[17:29:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:29:13] [Server thread/INFO]: Preparing spawn area: 0%
+[17:29:13] [Server thread/INFO]: Preparing spawn area: 0%
+[17:29:13] [Server thread/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[17:29:18] [Server thread/INFO]: Preparing spawn area: 0%
+[17:29:19] [Server thread/INFO]: Time elapsed: 6905 ms
+[17:29:19] [Server thread/INFO]: Done (8.457s)! For help, type "help"
+[17:30:11] [User Authenticator #1/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[17:30:12] [Server thread/INFO]: freerunner588[/73.67.199.247:50499] logged in with entity id 241 at (-128.23651495198087, 65.0, 163.76527500897646)
+[17:30:12] [Server thread/INFO]: freerunner588 joined the game
+[17:30:22] [User Authenticator #2/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
+[17:30:23] [Server thread/INFO]: GreggZumbari[/192.168.156.1:54496] logged in with entity id 314 at (-128.4623711254529, 65.0, 165.16050697256765)
+[17:30:23] [Server thread/INFO]: GreggZumbari joined the game
+[17:30:24] [Server thread/INFO]: <freerunner588> nigger
+[17:30:26] [Server thread/INFO]: <freerunner588> I hate niggers
+[17:30:30] [Server thread/INFO]: <freerunner588> I hate jews
+[17:30:32] [Server thread/INFO]: <freerunner588> spex and mix
+[17:30:37] [Server thread/INFO]: <freerunner588> daegos and chinks
+[17:30:37] [Server thread/INFO]: <GreggZumbari> Dude no way same
+[17:30:45] [Server thread/INFO]: <freerunner588> but to my gods eyes I really hate those nigger rats
+[17:31:13] [Server thread/INFO]: Villager axw['Farmer'/62, l='world', x=-188.84, y=64.00, z=62.36] died, message: 'Farmer was slain by Zombie'
+[17:31:25] [Server thread/INFO]: freerunner588 has made the advancement [A Seedy Place]
+[17:31:34] [Server thread/INFO]: GreggZumbari has made the advancement [A Seedy Place]
+[17:32:06] [Server thread/INFO]: GreggZumbari was shot by Skeleton
+[17:32:08] [User Authenticator #3/INFO]: UUID of player KyogreNikki is 541130f2-324a-4f55-8be7-945eb9c59fdb
+[17:32:08] [Server thread/INFO]: KyogreNikki[/24.22.116.89:57635] logged in with entity id 698 at (-53.5, 68.0, 69.5)
+[17:32:08] [Server thread/INFO]: KyogreNikki joined the game
+[17:32:30] [Server thread/INFO]: <KyogreNikki> slash gamemode creative
+[17:32:33] [Server thread/INFO]: KyogreNikki lost connection: Disconnected
+[17:32:33] [Server thread/INFO]: KyogreNikki left the game
+[17:33:02] [User Authenticator #4/INFO]: UUID of player Griseous_Claw is 86672ad4-f5b2-4408-815f-06e31cd9fae3
+[17:33:02] [Server thread/INFO]: Griseous_Claw[/97.120.98.9:55113] logged in with entity id 1032 at (-53.5, 68.0, 58.5)
+[17:33:02] [Server thread/INFO]: Griseous_Claw joined the game
+[17:33:58] [Server thread/INFO]: [GreggZumbari: Added 1 to [Deaths] for 3 entities]
+[17:34:06] [Server thread/INFO]: [GreggZumbari: Removed 1 from [Deaths] for 3 entities]
+[17:34:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@15590eaf[id=<null>,name=PichuErik,properties={},legacy=false] (/24.22.116.89:57937) lost connection: Disconnected
+[17:35:38] [User Authenticator #5/INFO]: UUID of player PichuErik is 7eea15c7-4a11-4d45-b33c-4d1d84e683a5
+[17:35:38] [Server thread/INFO]: PichuErik[/24.22.116.89:58190] logged in with entity id 1816 at (-62.5, 68.0, 72.5)
+[17:35:38] [Server thread/INFO]: PichuErik joined the game
+[17:35:41] [Server thread/INFO]: freerunner588 has made the advancement [Stone Age]
+[17:36:11] [Server thread/INFO]: PichuErik has made the advancement [A Seedy Place]
+[17:36:24] [Server thread/INFO]: freerunner588 has made the advancement [Getting an Upgrade]
+[17:37:59] [User Authenticator #6/INFO]: UUID of player sagetexas is 35e285ee-d8dd-442a-b7bd-ecc66b61754e
+[17:37:59] [Server thread/INFO]: sagetexas[/24.22.116.89:51648] logged in with entity id 2607 at (-63.5, 68.0, 74.5)
+[17:37:59] [Server thread/INFO]: sagetexas joined the game
+[17:39:18] [Server thread/INFO]: sagetexas has made the advancement [Stone Age]
+[17:40:02] [Server thread/INFO]: [GreggZumbari: Gamerule spawnRadius is now set to: 1000]
+[17:40:16] [Server thread/INFO]: sagetexas has made the advancement [Getting an Upgrade]
+[17:40:24] [Server thread/INFO]: [GreggZumbari: Gamerule spawnRadius is now set to: 1]
+[17:40:34] [Server thread/INFO]: Griseous_Claw has made the advancement [Stone Age]
+[17:41:10] [Server thread/INFO]: PichuErik has made the advancement [Stone Age]
+[17:41:18] [Server thread/INFO]: PichuErik has made the advancement [Getting an Upgrade]
+[17:42:02] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 10]
+[17:42:16] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 500]
+[17:42:21] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 20]
+[17:43:14] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 500]
+[17:43:21] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 20]
+[17:43:23] [Server thread/INFO]: Griseous_Claw has made the advancement [Getting an Upgrade]
+[17:43:28] [Server thread/INFO]: sagetexas has made the advancement [A Seedy Place]
+[17:45:15] [Server thread/INFO]: GreggZumbari was slain by Zombie
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Sword'/5803, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Bow'/5804, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Stone Pickaxe'/5805, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Stone Axe'/5806, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Hoe'/5807, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Potato'/5808, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Wheat Seeds'/5809, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Carrot'/5810, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Rotten Flesh'/5811, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Crafting Table'/5812, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Water Bucket'/5813, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/5814, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Stick'/5815, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Apple'/5816, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Beetroot'/5817, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Wheat'/5818, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Oak Log'/5819, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Arrow'/5820, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Stone Axe'/5821, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Oak Log'/5822, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Beetroot Seeds'/5823, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Boots'/5824, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Chestplate'/5825, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity awb['Iron Helmet'/5826, l='world', x=-144.86, y=65.32, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5827, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5827, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5827, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5828, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5828, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5828, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5829, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5829, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5829, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5830, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5830, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5830, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5831, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5831, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:15] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/5831, l='world', x=-144.86, y=64.00, z=227.90]
+[17:45:20] [Server thread/INFO]: sagetexas has made the advancement [Monster Hunter]
+[17:45:52] [Server thread/INFO]: Griseous_Claw has made the advancement [Sweet Dreams]
+[17:46:10] [Server thread/INFO]: freerunner588 has made the advancement [Sweet Dreams]
+[17:46:17] [Server thread/INFO]: sagetexas has made the advancement [Sweet Dreams]
+[17:46:39] [Server thread/INFO]: PichuErik has made the advancement [Sweet Dreams]
+[17:46:40] [Server thread/INFO]: sagetexas was slain by Zombie
+[17:46:47] [Server thread/INFO]: [GreggZumbari: Kicked sagetexas: Kicked by an operator]
+[17:46:47] [Server thread/INFO]: sagetexas lost connection: Kicked by an operator
+[17:46:47] [Server thread/INFO]: sagetexas left the game
+[17:46:52] [User Authenticator #7/INFO]: UUID of player sagetexas is 35e285ee-d8dd-442a-b7bd-ecc66b61754e
+[17:46:52] [Server thread/INFO]: sagetexas[/24.22.116.89:53776] logged in with entity id 6410 at (-63.13132202858147, 66.0, 232.1470042846555)
+[17:46:52] [Server thread/INFO]: sagetexas joined the game
+[17:47:09] [Server thread/INFO]: Griseous_Claw has made the advancement [Monster Hunter]
+[17:47:23] [Server thread/INFO]: PichuErik has made the advancement [Acquire Hardware]
+[17:48:34] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 5]
+[17:49:00] [Server thread/INFO]: freerunner588 has made the advancement [Acquire Hardware]
+[17:49:38] [Server thread/INFO]: Griseous_Claw has made the advancement [A Seedy Place]
+[17:50:13] [Server thread/INFO]: Griseous_Claw has made the advancement [The Parrots and the Bats]
+[17:50:23] [Server thread/INFO]: freerunner588 has made the advancement [Suit Up]
+[17:52:10] [Server thread/WARN]: Fetching packet for removed entity awb['Stick'/7037, l='world', x=-128.37, y=64.00, z=172.86]
+[17:52:59] [Server thread/INFO]: GreggZumbari was blown up by Creeper
+[17:54:42] [Server thread/INFO]: freerunner588 has made the advancement [Isn't It Iron Pick]
+[17:55:57] [Server thread/INFO]: freerunner588 has made the advancement [Diamonds!]
+[17:57:14] [Server thread/INFO]: [GreggZumbari: Added 0 to [Deaths] for 5 entities]
+[17:57:54] [Server thread/INFO]: GreggZumbari has made the advancement [Isn't It Iron Pick]
+[17:58:24] [Server thread/INFO]: freerunner588 has made the advancement [Monster Hunter]
+[17:59:12] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
+[17:59:12] [Server thread/INFO]: GreggZumbari left the game
+[17:59:16] [Server thread/INFO]: sagetexas has made the advancement [Acquire Hardware]
+[17:59:17] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[17:59:17] [Server thread/INFO]: freerunner588 left the game
+[17:59:19] [User Authenticator #8/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
+[17:59:19] [Server thread/INFO]: GreggZumbari[/192.168.156.1:54560] logged in with entity id 11061 at (-136.42037022187301, 27.0, 114.53337085546528)
+[17:59:19] [Server thread/INFO]: GreggZumbari joined the game
+[17:59:29] [Server thread/INFO]: sagetexas has made the advancement [Suit Up]
+[17:59:45] [Server thread/INFO]: sagetexas has made the advancement [Isn't It Iron Pick]
+[17:59:57] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
+[17:59:57] [Server thread/INFO]: GreggZumbari left the game
+[18:00:26] [Server thread/INFO]: PichuErik has made the advancement [Monster Hunter]
+[18:00:29] [User Authenticator #9/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[18:00:29] [Server thread/INFO]: freerunner588[/73.67.199.247:50651] logged in with entity id 11377 at (-201.80107593796092, 12.0, 321.4877645834423)
+[18:00:29] [Server thread/INFO]: freerunner588 joined the game
+[18:00:40] [User Authenticator #10/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
+[18:00:40] [Server thread/INFO]: GreggZumbari[/192.168.156.1:54588] logged in with entity id 11537 at (-137.4238806834393, 27.0, 114.34871875065127)
+[18:00:40] [Server thread/INFO]: GreggZumbari joined the game
+[18:01:51] [Server thread/INFO]: freerunner588 has made the advancement [Ice Bucket Challenge]
+[18:03:14] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/12615, l='world', x=-98.61, y=37.82, z=152.47]
+[18:03:20] [Server thread/INFO]: freerunner588 has made the advancement [Not Today, Thank You]
+[18:03:53] [Server thread/INFO]: sagetexas was blown up by Creeper
+[18:06:06] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/13649, l='world', x=-231.40, y=72.48, z=251.62]
+[18:06:17] [Server thread/WARN]: Fetching packet for removed entity awb['Coal'/13711, l='world', x=-230.65, y=71.44, z=251.67]
+[18:07:38] [Server thread/INFO]: [GreggZumbari: Set sagetexas's game mode to Spectator Mode]
+[18:09:09] [Server thread/INFO]: [GreggZumbari: Set sagetexas's game mode to Survival Mode]
+[18:11:16] [Server thread/INFO]: GreggZumbari has made the advancement [Diamonds!]
+[18:13:43] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
+[18:13:43] [Server thread/INFO]: GreggZumbari left the game
+[18:15:05] [User Authenticator #11/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
+[18:15:05] [Server thread/INFO]: GreggZumbari[/127.0.0.1:54682] logged in with entity id 16513 at (-112.86930202516525, 11.0, 270.45893613093705)
+[18:15:05] [Server thread/INFO]: GreggZumbari joined the game
+[18:17:30] [Server thread/INFO]: Villager axw['Farmer'/164, l='world', x=-210.69, y=67.00, z=187.60] died, message: 'Farmer was slain by Zombie'
+[18:17:54] [Server thread/INFO]: PichuErik has made the advancement [Not Today, Thank You]
+[18:18:56] [Server thread/INFO]: Villager axw['Farmer'/255, l='world', x=-145.73, y=65.00, z=165.70] died, message: 'Farmer was slain by Zombie'
+[18:24:21] [Server thread/WARN]: sagetexas moved too quickly! -2.4814166347476885,0.9769118908984495,9.812261588735282
+[18:24:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2307ms or 46 ticks behind
+[18:25:14] [Server thread/INFO]: <PichuErik> -223 63 165
+[18:25:20] [Server thread/INFO]: [GreggZumbari: Teleported Griseous_Claw to PichuErik]
+[18:25:34] [Server thread/INFO]: Griseous_Claw has made the advancement [Acquire Hardware]
+[18:26:54] [Server thread/INFO]: Griseous_Claw has made the advancement [Isn't It Iron Pick]
+[18:29:23] [Server thread/WARN]: GreggZumbari moved too quickly! 0.5894617000512028,3.0,9.583374002358084
+[18:29:23] [Server thread/WARN]: sagetexas moved too quickly! 7.834941110646014,-1.9031272476744903,-6.073080055381297
+[18:29:38] [Server thread/INFO]: GreggZumbari has made the advancement [Not Today, Thank You]
+[18:32:16] [Server thread/INFO]: GreggZumbari has made the advancement [Hot Stuff]
+[18:40:46] [Server thread/INFO]: sagetexas has made the advancement [Not Today, Thank You]
+[18:41:50] [Server thread/INFO]: [GreggZumbari: Teleported Griseous_Claw to GreggZumbari]
+[18:44:06] [Server thread/INFO]: Griseous_Claw has made the advancement [Suit Up]
+[18:45:04] [Server thread/INFO]: [GreggZumbari: Set the weather to clear]
+[18:47:09] [Server thread/INFO]: PichuErik has made the advancement [The Parrots and the Bats]
+[18:51:27] [Server thread/INFO]: GreggZumbari has made the advancement [Ice Bucket Challenge]
+[18:55:51] [Server thread/INFO]: Griseous_Claw lost connection: Disconnected
+[18:55:51] [Server thread/INFO]: Griseous_Claw left the game
+[18:59:16] [Server thread/INFO]: PichuErik was slain by Zombie
+[19:04:55] [Server thread/INFO]: sagetexas has made the advancement [Hot Stuff]
+[19:07:31] [Server thread/INFO]: freerunner588 has made the advancement [Hot Stuff]
+[19:08:07] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 1000]
+[19:08:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[19:08:13] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 500]
+[19:08:57] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 3]
+[19:14:21] [Server thread/INFO]: freerunner588 has made the advancement [We Need to Go Deeper]
+[19:15:54] [Server thread/INFO]: sagetexas was slain by Zombie
+[19:16:08] [Server thread/INFO]: sagetexas lost connection: Disconnected
+[19:16:08] [Server thread/INFO]: sagetexas left the game
+[19:17:14] [Server thread/INFO]: GreggZumbari has made the advancement [Enchanter]
+[19:18:06] [Server thread/INFO]: freerunner588 has made the advancement [A Terrible Fortress]
+[19:19:01] [Server thread/INFO]: PichuErik lost connection: Disconnected
+[19:19:01] [Server thread/INFO]: PichuErik left the game
+[19:22:30] [Server thread/INFO]: GreggZumbari has made the advancement [We Need to Go Deeper]
+[19:23:14] [Server thread/INFO]: freerunner588 has made the advancement [Into Fire]
+[19:23:57] [Server thread/INFO]: freerunner588 burned to death
+[19:24:15] [Server thread/INFO]: [GreggZumbari: Teleported 2 entities to GreggZumbari]
+[19:24:24] [Server thread/INFO]: [GreggZumbari: Set the world spawn point to -205, 65, 199]
+[19:25:01] [Server thread/INFO]: freerunner588 withered away whilst fighting Wither Skeleton
+[19:25:48] [Server thread/INFO]: GreggZumbari has made the advancement [Into Fire]
+[19:26:07] [Server thread/INFO]: GreggZumbari has made the advancement [A Terrible Fortress]
+[19:30:09] [Server thread/INFO]: GreggZumbari walked into fire whilst fighting Zombie Pigman
+[19:36:48] [Server thread/INFO]: GreggZumbari was fireballed by Blaze
+[19:42:25] [Server thread/INFO]: GreggZumbari has made the advancement [Take Aim]
+[19:48:55] [Server thread/INFO]: Villager axw['Farmer'/92, l='world', x=-164.62, y=67.00, z=187.98] died, message: 'Farmer was slain by Zombie'
+[19:49:26] [Server thread/WARN]: Fetching packet for removed entity awz['Zombie Pigman'/49585, l='world', x=-85.50, y=66.35, z=83.40]
+[19:49:58] [Server thread/INFO]: GreggZumbari has made the advancement [Spooky Scary Skeleton]
+[19:50:57] [User Authenticator #12/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[19:50:57] [Server thread/INFO]: Starfy100[/98.232.163.239:58669] logged in with entity id 50741 at (-155.69999998807907, 33.0, 195.95838465780204)
+[19:50:57] [Server thread/INFO]: Starfy100 joined the game
+[19:53:35] [Server thread/INFO]: GreggZumbari has completed the challenge [Return to Sender]
+[19:54:15] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
+[19:54:15] [Server thread/INFO]: GreggZumbari left the game
+[19:54:18] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[19:54:18] [Server thread/INFO]: freerunner588 left the game
+[19:54:31] [Server thread/INFO]: com.mojang.authlib.GameProfile@afed659[id=<null>,name=freerunner588,properties={},legacy=false] (/73.67.199.247:50895) lost connection: Disconnected
+[19:54:31] [User Authenticator #13/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[19:54:33] [User Authenticator #14/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[19:54:33] [Server thread/INFO]: freerunner588[/73.67.199.247:50897] logged in with entity id 51898 at (-224.1958652633772, 70.0, 265.47075958631206)
+[19:54:33] [Server thread/INFO]: freerunner588 joined the game
+[19:55:07] [Server thread/INFO]: Starfy100 has made the advancement [We Need to Go Deeper]
+[19:57:03] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[19:57:03] [Server thread/INFO]: freerunner588 left the game
+[19:57:11] [User Authenticator #15/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[19:57:11] [Server thread/INFO]: freerunner588[/73.67.199.247:50935] logged in with entity id 52439 at (-15.630502844418775, 76.0, 16.34244818694956)
+[19:57:11] [Server thread/INFO]: freerunner588 joined the game
+[20:02:41] [Server thread/INFO]: Starfy100 has made the advancement [Acquire Hardware]
+[20:05:18] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[20:05:18] [Server thread/INFO]: freerunner588 left the game
+[20:05:36] [User Authenticator #16/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[20:05:36] [Server thread/INFO]: freerunner588[/73.67.199.247:50986] logged in with entity id 54100 at (-209.04828987259393, 18.0, 291.8279044031939)
+[20:05:36] [Server thread/INFO]: freerunner588 joined the game
+[20:11:14] [User Authenticator #17/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
+[20:11:15] [Server thread/INFO]: GreggZumbari[/192.168.156.1:55250] logged in with entity id 55308 at (152.65157418601774, 77.0, 137.8884792656973)
+[20:11:15] [Server thread/INFO]: GreggZumbari joined the game
+[20:12:35] [Server thread/INFO]: GreggZumbari fell from a high place
+[20:12:50] [Server thread/INFO]: An entity is required to run this command here
+[20:13:21] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[20:13:21] [Server thread/INFO]: freerunner588 left the game
+[20:13:21] [Server thread/INFO]: Incorrect argument for command
+[20:13:21] [Server thread/INFO]: /tp @e[type=Witch] GreggZumbari<--[HERE]
+[20:13:33] [Server thread/INFO]: No entity was found
+[20:13:34] [User Authenticator #18/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[20:13:34] [Server thread/INFO]: freerunner588[/73.67.199.247:51043] logged in with entity id 56239 at (-211.3702077182765, 64.9375, 214.37694407170164)
+[20:13:34] [Server thread/INFO]: freerunner588 joined the game
+[20:13:39] [Server thread/INFO]: Teleported 17 entities to GreggZumbari
+[20:13:43] [Server thread/INFO]: Teleported 34 entities to GreggZumbari
+[20:14:45] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
+[20:14:57] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
+[20:15:04] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
+[20:15:45] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 22 targets]
+[20:16:22] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 17 targets]
+[20:16:38] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[20:16:38] [Server thread/INFO]: freerunner588 left the game
+[20:16:41] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 22 targets]
+[20:16:44] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 16 targets]
+[20:17:09] [Server thread/INFO]: Villager axw['Leatherworker'/81, l='world', x=-229.90, y=63.00, z=164.17] died, message: 'Leatherworker was slain by Zombie'
+[20:17:44] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
+[20:19:31] [Server thread/INFO]: GreggZumbari was slain by Wither Skeleton
+[20:20:00] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
+[20:20:28] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
+[20:25:34] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
+[20:25:34] [Server thread/INFO]: GreggZumbari left the game
+[20:28:33] [Server thread/INFO]: Applied effect Strength to 21 targets
+[20:28:36] [Server thread/INFO]: Unknown command
+[20:28:36] [Server thread/INFO]: effect<--[HERE]
+[20:28:42] [Server thread/INFO]: Unknown command
+[20:28:42] [Server thread/INFO]: ...ffect give<--[HERE]
+[20:28:46] [Server thread/INFO]: /advancement (grant|revoke)
+[20:28:46] [Server thread/INFO]: /ban <targets> [<reason>]
+[20:28:46] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[20:28:46] [Server thread/INFO]: /banlist [ips|players]
+[20:28:46] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[20:28:46] [Server thread/INFO]: /clear [<targets>]
+[20:28:46] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[20:28:46] [Server thread/INFO]: /data (get|merge|modify|remove)
+[20:28:46] [Server thread/INFO]: /datapack (disable|enable|list)
+[20:28:46] [Server thread/INFO]: /debug (report|start|stop)
+[20:28:46] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[20:28:46] [Server thread/INFO]: /deop <targets>
+[20:28:46] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[20:28:46] [Server thread/INFO]: /effect (clear|give)
+[20:28:46] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[20:28:46] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[20:28:46] [Server thread/INFO]: /experience (add|query|set)
+[20:28:46] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[20:28:46] [Server thread/INFO]: /forceload (add|query|remove)
+[20:28:46] [Server thread/INFO]: /function <name>
+[20:28:46] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[20:28:46] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[20:28:46] [Server thread/INFO]: /give <targets> <item> [<count>]
+[20:28:46] [Server thread/INFO]: /help [<command>]
+[20:28:46] [Server thread/INFO]: /kick <targets> [<reason>]
+[20:28:46] [Server thread/INFO]: /kill [<targets>]
+[20:28:46] [Server thread/INFO]: /list [uuids]
+[20:28:46] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[20:28:46] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[20:28:46] [Server thread/INFO]: /me <action>
+[20:28:46] [Server thread/INFO]: /msg <targets> <message>
+[20:28:46] [Server thread/INFO]: /op <targets>
+[20:28:46] [Server thread/INFO]: /pardon <targets>
+[20:28:46] [Server thread/INFO]: /pardon-ip <target>
+[20:28:46] [Server thread/INFO]: /particle <name> [<pos>]
+[20:28:46] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[20:28:46] [Server thread/INFO]: /recipe (give|take)
+[20:28:46] [Server thread/INFO]: /reload
+[20:28:46] [Server thread/INFO]: /replaceitem (block|entity)
+[20:28:46] [Server thread/INFO]: /save-all [flush]
+[20:28:46] [Server thread/INFO]: /save-off
+[20:28:46] [Server thread/INFO]: /save-on
+[20:28:46] [Server thread/INFO]: /say <message>
+[20:28:46] [Server thread/INFO]: /schedule (clear|function)
+[20:28:46] [Server thread/INFO]: /scoreboard (objectives|players)
+[20:28:46] [Server thread/INFO]: /seed
+[20:28:46] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[20:28:46] [Server thread/INFO]: /setidletimeout <minutes>
+[20:28:46] [Server thread/INFO]: /setworldspawn [<pos>]
+[20:28:46] [Server thread/INFO]: /spawnpoint [<targets>]
+[20:28:46] [Server thread/INFO]: /spectate [<target>]
+[20:28:46] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[20:28:46] [Server thread/INFO]: /stop
+[20:28:46] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[20:28:46] [Server thread/INFO]: /summon <entity> [<pos>]
+[20:28:46] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[20:28:46] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[20:28:46] [Server thread/INFO]: /teammsg <message>
+[20:28:46] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[20:28:46] [Server thread/INFO]: /tell -> msg
+[20:28:46] [Server thread/INFO]: /tellraw <targets> <message>
+[20:28:46] [Server thread/INFO]: /time (add|query|set)
+[20:28:46] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[20:28:46] [Server thread/INFO]: /tm -> teammsg
+[20:28:46] [Server thread/INFO]: /tp -> teleport
+[20:28:46] [Server thread/INFO]: /trigger <objective> [add|set]
+[20:28:46] [Server thread/INFO]: /w -> msg
+[20:28:46] [Server thread/INFO]: /weather (clear|rain|thunder)
+[20:28:46] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[20:28:46] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[20:28:46] [Server thread/INFO]: /xp -> experience
+[20:29:20] [Server thread/INFO]: Applied effect Strength to 17 targets
+[20:29:27] [Server thread/INFO]: Applied effect Strength to 17 targets
+[20:29:28] [Server thread/INFO]: Applied effect Strength to 20 targets
+[20:29:30] [Server thread/INFO]: Applied effect Strength to 19 targets
+[20:29:39] [Server thread/INFO]: Applied effect Strength to 19 targets
+[20:29:48] [Server thread/INFO]: Applied effect Strength to 23 targets
+[20:29:54] [Server thread/INFO]: Applied effect Speed to 23 targets
+[20:31:04] [Server thread/INFO]: Unknown command
+[20:31:04] [Server thread/INFO]: set time night<--[HERE]
+[20:31:08] [Server thread/INFO]: Set the time to 13000
+[20:31:52] [Server thread/INFO]: Applied effect Speed to 28 targets
+[20:31:54] [Server thread/INFO]: Applied effect Strength to 29 targets
+[20:31:56] [Server thread/INFO]: /advancement (grant|revoke)
+[20:31:56] [Server thread/INFO]: /ban <targets> [<reason>]
+[20:31:56] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[20:31:56] [Server thread/INFO]: /banlist [ips|players]
+[20:31:56] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[20:31:56] [Server thread/INFO]: /clear [<targets>]
+[20:31:56] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[20:31:56] [Server thread/INFO]: /data (get|merge|modify|remove)
+[20:31:56] [Server thread/INFO]: /datapack (disable|enable|list)
+[20:31:56] [Server thread/INFO]: /debug (report|start|stop)
+[20:31:56] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[20:31:56] [Server thread/INFO]: /deop <targets>
+[20:31:56] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[20:31:56] [Server thread/INFO]: /effect (clear|give)
+[20:31:56] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[20:31:56] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[20:31:56] [Server thread/INFO]: /experience (add|query|set)
+[20:31:56] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[20:31:56] [Server thread/INFO]: /forceload (add|query|remove)
+[20:31:56] [Server thread/INFO]: /function <name>
+[20:31:56] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[20:31:56] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[20:31:56] [Server thread/INFO]: /give <targets> <item> [<count>]
+[20:31:56] [Server thread/INFO]: /help [<command>]
+[20:31:56] [Server thread/INFO]: /kick <targets> [<reason>]
+[20:31:56] [Server thread/INFO]: /kill [<targets>]
+[20:31:56] [Server thread/INFO]: /list [uuids]
+[20:31:56] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[20:31:56] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[20:31:56] [Server thread/INFO]: /me <action>
+[20:31:56] [Server thread/INFO]: /msg <targets> <message>
+[20:31:56] [Server thread/INFO]: /op <targets>
+[20:31:56] [Server thread/INFO]: /pardon <targets>
+[20:31:56] [Server thread/INFO]: /pardon-ip <target>
+[20:31:56] [Server thread/INFO]: /particle <name> [<pos>]
+[20:31:56] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[20:31:56] [Server thread/INFO]: /recipe (give|take)
+[20:31:56] [Server thread/INFO]: /reload
+[20:31:56] [Server thread/INFO]: /replaceitem (block|entity)
+[20:31:56] [Server thread/INFO]: /save-all [flush]
+[20:31:56] [Server thread/INFO]: /save-off
+[20:31:56] [Server thread/INFO]: /save-on
+[20:31:56] [Server thread/INFO]: /say <message>
+[20:31:56] [Server thread/INFO]: /schedule (clear|function)
+[20:31:56] [Server thread/INFO]: /scoreboard (objectives|players)
+[20:31:56] [Server thread/INFO]: /seed
+[20:31:56] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[20:31:56] [Server thread/INFO]: /setidletimeout <minutes>
+[20:31:56] [Server thread/INFO]: /setworldspawn [<pos>]
+[20:31:56] [Server thread/INFO]: /spawnpoint [<targets>]
+[20:31:56] [Server thread/INFO]: /spectate [<target>]
+[20:31:56] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[20:31:56] [Server thread/INFO]: /stop
+[20:31:56] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[20:31:56] [Server thread/INFO]: /summon <entity> [<pos>]
+[20:31:56] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[20:31:56] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[20:31:56] [Server thread/INFO]: /teammsg <message>
+[20:31:56] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[20:31:56] [Server thread/INFO]: /tell -> msg
+[20:31:56] [Server thread/INFO]: /tellraw <targets> <message>
+[20:31:56] [Server thread/INFO]: /time (add|query|set)
+[20:31:56] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[20:31:56] [Server thread/INFO]: /tm -> teammsg
+[20:31:56] [Server thread/INFO]: /tp -> teleport
+[20:31:56] [Server thread/INFO]: /trigger <objective> [add|set]
+[20:31:56] [Server thread/INFO]: /w -> msg
+[20:31:56] [Server thread/INFO]: /weather (clear|rain|thunder)
+[20:31:56] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[20:31:56] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[20:31:56] [Server thread/INFO]: /xp -> experience
+[20:34:28] [Server thread/INFO]: Applied effect Strength to 22 targets
+[20:34:39] [Server thread/INFO]: Applied effect Strength to 20 targets
+[20:34:45] [Server thread/INFO]: Applied effect Speed to 19 targets
+[20:49:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@bcbac0e[id=<null>,name=freerunner588,properties={},legacy=false] (/73.67.199.247:51198) lost connection: Disconnected
+[20:49:55] [User Authenticator #19/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[20:49:55] [Server thread/INFO]: freerunner588[/73.67.199.247:51221] logged in with entity id 62382 at (-224.07143631782893, 70.0, 268.05582442534575)
+[20:49:55] [Server thread/INFO]: freerunner588 joined the game
+[21:04:29] [Server thread/INFO]: Applied effect Speed to 16 targets
+[21:04:30] [Server thread/INFO]: Applied effect Strength to 18 targets
+[21:15:08] [Server thread/INFO]: <Starfy100> yeyey
+[21:15:12] [Server thread/INFO]: <freerunner588> ee
+[21:18:45] [Server thread/WARN]: Fetching packet for removed entity awb['Oak Log'/67450, l='world', x=-258.78, y=82.39, z=288.13]
+[21:24:42] [Server thread/INFO]: Starfy100 fell from a high place
+[21:24:52] [Server thread/INFO]: Applied effect Strength to 18 targets
+[21:24:55] [Server thread/INFO]: Applied effect Speed to 20 targets
+[21:25:55] [Server thread/INFO]: Applied effect Speed to 24 targets
+[21:25:56] [Server thread/INFO]: Applied effect Strength to 22 targets
+[21:33:31] [Server thread/INFO]: Applied effect Strength to 32 targets
+[21:33:34] [Server thread/INFO]: Applied effect Speed to 29 targets
+[21:36:47] [Server thread/INFO]: Applied effect Speed to 42 targets
+[21:36:49] [Server thread/INFO]: Applied effect Speed to 42 targets
+[21:36:50] [Server thread/INFO]: Applied effect Strength to 42 targets
+[21:47:24] [Server thread/INFO]: Applied effect Strength to 30 targets
+[21:47:35] [Server thread/INFO]: Applied effect Strength to 32 targets
+[21:47:41] [Server thread/INFO]: Applied effect Speed to 30 targets
+[21:57:05] [Server thread/INFO]: Unknown command
+[21:57:05] [Server thread/INFO]: shutdown -s -t 10800<--[HERE]
+[21:58:19] [User Authenticator #20/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
+[21:58:19] [Server thread/INFO]: GreggZumbari[/127.0.0.1:60467] logged in with entity id 73907 at (-178.08176646087168, 59.0, 198.34097790380238)
+[21:58:19] [Server thread/INFO]: GreggZumbari joined the game
+[21:58:26] [Server thread/INFO]: [GreggZumbari: Set own game mode to Creative Mode]
+[21:58:45] [Server thread/INFO]: [GreggZumbari: Gave 1 [Bedrock] to GreggZumbari]
+[21:58:51] [Server thread/INFO]: [GreggZumbari: Gave 1 [Command Block] to GreggZumbari]
+[21:59:03] [Server thread/INFO]: [GreggZumbari: Gave 1 [Minecart with Command Block] to GreggZumbari]
+[21:59:21] [Server thread/INFO]: Villager axw['Farmer'/234, l='world', x=-162.53, y=64.00, z=242.70] died, message: 'Farmer was slain by Zombie'
+[21:59:26] [Server thread/INFO]: [GreggZumbari: Gave 1 [Command Block] to GreggZumbari]
+[21:59:36] [Server thread/INFO]: [GreggZumbari: Set the time to 1000]
+[21:59:44] [Server thread/INFO]: Villager axw['Leatherworker'/180, l='world', x=-169.77, y=64.00, z=232.15] died, message: 'Leatherworker was slain by Zombie Villager'
+[22:01:43] [Server thread/INFO]: [@: Applied effect Strength to 27 targets]
+[22:01:43] [Server thread/INFO]: [@: Applied effect Speed to 27 targets]
+[22:01:45] [Server thread/INFO]: [@: Applied effect Strength to 27 targets]
+[22:01:45] [Server thread/INFO]: [@: Applied effect Speed to 27 targets]
+[22:01:48] [Server thread/INFO]: [@: Applied effect Strength to 25 targets]
+[22:01:48] [Server thread/INFO]: [@: Applied effect Speed to 25 targets]
+[22:01:50] [Server thread/INFO]: [@: Applied effect Strength to 26 targets]
+[22:01:50] [Server thread/INFO]: [@: Applied effect Speed to 26 targets]
+[22:01:52] [Server thread/INFO]: [@: Applied effect Strength to 28 targets]
+[22:01:52] [Server thread/INFO]: [@: Applied effect Speed to 28 targets]
+[22:01:55] [Server thread/INFO]: [@: Applied effect Strength to 28 targets]
+[22:01:55] [Server thread/INFO]: [@: Applied effect Speed to 28 targets]
+[22:01:57] [Server thread/INFO]: [GreggZumbari: Gamerule commandBlockOutput is now set to: false]
+[22:02:58] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
+[22:03:00] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
+[22:03:00] [Server thread/INFO]: GreggZumbari left the game
+[22:25:39] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[22:25:39] [Server thread/INFO]: freerunner588 left the game
+[23:05:15] [User Authenticator #21/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[23:05:15] [Server thread/INFO]: freerunner588[/73.67.199.247:51581] logged in with entity id 84752 at (-221.28710162365397, 87.0, 250.6626803136241)
+[23:05:15] [Server thread/INFO]: freerunner588 joined the game
+[23:31:32] [Server thread/INFO]: Starfy100 lost connection: Timed out
+[23:31:32] [Server thread/INFO]: Starfy100 left the game
+[23:31:38] [Server Watchdog/FATAL]: A single server tick took 1040.17 seconds (should be max 0.05)
+[23:31:38] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[23:31:43] [Server thread/INFO]: freerunner588 lost connection: Timed out
+[23:31:43] [Server thread/INFO]: freerunner588 left the game
+[23:31:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 1044841ms or 20896 ticks behind
+[23:31:43] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\gregg\OneDrive\Desktop\Minecraft Server 1.15.2\.\crash-reports\crash-2020-03-14_23.31.43-server.txt
