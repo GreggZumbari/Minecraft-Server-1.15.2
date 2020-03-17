@@ -1,290 +1,46 @@
-[13:03:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:03:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:03:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:03:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[13:03:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[13:03:53] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[13:03:53] [Server thread/INFO]: Loading properties
-[13:03:53] [Server thread/INFO]: Default game type: SURVIVAL
-[13:03:53] [Server thread/INFO]: Generating keypair
-[13:03:53] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:03:53] [Server thread/INFO]: Using default channel type
-[13:03:54] [Server thread/INFO]: Preparing level "world"
-[13:03:54] [Server thread/INFO]: Reloading ResourceManager: Default
-[13:03:54] [Server thread/INFO]: Loaded 6 recipes
-[13:03:55] [Server thread/INFO]: Loaded 825 advancements
-[13:03:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:03:56] [Server thread/INFO]: Preparing spawn area: 0%
-[13:03:56] [Server thread/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[13:04:00] [Server thread/INFO]: Preparing spawn area: 0%
-[13:04:01] [Server thread/INFO]: Time elapsed: 5316 ms
-[13:04:01] [Server thread/INFO]: Done (7.110s)! For help, type "help"
-[13:05:29] [User Authenticator #1/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
-[13:05:29] [Server thread/INFO]: Starfy100[/98.232.163.239:60355] logged in with entity id 202 at (-211.12715563936442, 113.0, 233.95379080951815)
-[13:05:29] [Server thread/INFO]: Starfy100 joined the game
-[13:06:23] [User Authenticator #2/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
-[13:06:23] [Server thread/INFO]: GreggZumbari[/192.168.156.1:51083] logged in with entity id 375 at (-140.25654920378355, 65.0, 147.10291710147288)
-[13:06:23] [Server thread/INFO]: GreggZumbari joined the game
-[13:08:16] [Server thread/INFO]: [GreggZumbari: Set the world spawn point to -205, 63, 111]
-[13:11:21] [User Authenticator #3/INFO]: UUID of player Griseous_Claw is 86672ad4-f5b2-4408-815f-06e31cd9fae3
-[13:11:22] [Server thread/INFO]: Griseous_Claw[/97.120.98.9:50091] logged in with entity id 1737 at (-199.3787156282977, 68.0, 208.8790368911219)
-[13:11:22] [Server thread/INFO]: Griseous_Claw joined the game
-[13:18:11] [Server thread/INFO]: [GreggZumbari: Set own game mode to Creative Mode]
-[13:18:53] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[13:30:35] [Server thread/INFO]: GreggZumbari was slain by Zombie
-[13:30:52] [Server thread/INFO]: [GreggZumbari: Killed 38 entities]
-[13:30:58] [Server thread/INFO]: [GreggZumbari: Killed 12 entities]
-[13:31:04] [Server thread/INFO]: Starfy100 fell from a high place
-[13:31:35] [Server thread/INFO]: [GreggZumbari: Set own game mode to Creative Mode]
-[13:31:51] [Server thread/INFO]: [GreggZumbari: Teleported Griseous_Claw to GreggZumbari]
-[13:32:00] [Server thread/INFO]: <Starfy100> go to sleep
-[13:32:47] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[13:32:58] [Server thread/INFO]: [GreggZumbari: Set the weather to clear]
-[13:35:26] [Server thread/INFO]: [GreggZumbari: Created team [Red]]
-[13:35:42] [Server thread/INFO]: [GreggZumbari: Updated the color for team [Red] to red]
-[13:35:55] [Server thread/INFO]: [GreggZumbari: Kicked Starfy100: We are trying to sleep and you are not]
-[13:35:55] [Server thread/INFO]: Starfy100 lost connection: We are trying to sleep and you are not
-[13:35:55] [Server thread/INFO]: Starfy100 left the game
-[13:36:07] [User Authenticator #4/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
-[13:36:07] [Server thread/INFO]: Starfy100[/98.232.163.239:60424] logged in with entity id 8757 at (-211.74857860217284, 109.0, 232.3041576120804)
-[13:36:07] [Server thread/INFO]: Starfy100 joined the game
-[13:36:34] [Server thread/INFO]: [GreggZumbari: Created team [Pink]]
-[13:36:57] [Server thread/INFO]: [GreggZumbari: Updated the color for team [Pink] to light_purple]
-[13:37:03] [Server thread/INFO]: [GreggZumbari: Added GreggZumbari to team [Pink]]
-[13:37:23] [Server thread/INFO]: [GreggZumbari: Added Griseous_Claw to team [Red]]
-[13:37:39] [Server thread/INFO]: [GreggZumbari: Created team [Blood]]
-[13:37:47] [Server thread/INFO]: [GreggZumbari: Updated the color for team [Blood] to dark_red]
-[13:37:57] [Server thread/INFO]: [GreggZumbari: Removed Griseous_Claw from any team]
-[13:38:13] [Server thread/INFO]: [GreggZumbari: Added Griseous_Claw to team [Blood]]
-[13:39:34] [Server thread/INFO]: Griseous_Claw was slain by Zombie
-[13:40:05] [Server thread/INFO]: Griseous_Claw was slain by Zombie
-[13:40:15] [Server thread/INFO]: [GreggZumbari: Set own game mode to Creative Mode]
-[13:40:27] [Server thread/INFO]: [GreggZumbari: The difficulty has been set to Peaceful]
-[13:40:51] [Server thread/INFO]: [GreggZumbari: The difficulty has been set to Hard]
-[13:41:14] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[13:42:26] [Server thread/INFO]: [GreggZumbari: Added Starfy100 to team [Pink]]
-[13:43:40] [Server thread/INFO]: [GreggZumbari: Set own game mode to Creative Mode]
-[13:43:45] [Server thread/INFO]: [GreggZumbari: Set the weather to clear]
-[13:45:21] [Server thread/INFO]: [GreggZumbari: Successfully filled 3380 blocks]
-[13:45:44] [Server thread/INFO]: [GreggZumbari: Successfully filled 1728 blocks]
-[13:46:03] [Server thread/INFO]: [GreggZumbari: Applied effect Night Vision to GreggZumbari]
-[13:47:06] [Server thread/INFO]: [GreggZumbari: Gave 1 [Command Block] to GreggZumbari]
-[13:48:46] [Server thread/INFO]: [GreggZumbari: Set the time to 1000]
-[13:48:57] [Server thread/INFO]: [GreggZumbari: Set the weather to clear]
-[13:49:05] [Server thread/INFO]: [GreggZumbari: Set the time to 3000]
-[13:49:14] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 500]
-[13:49:26] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 3]
-[13:49:30] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 500]
-[13:51:11] [Server thread/INFO]: [GreggZumbari: Gamerule randomTickSpeed is now set to: 3]
-[13:55:22] [Server thread/WARN]: Tried to add entity minecraft:fireball but it was marked as removed already
-[13:55:27] [Server thread/WARN]: Tried to add entity minecraft:fireball but it was marked as removed already
-[13:56:19] [Server thread/INFO]: [GreggZumbari: Summoned new Fireball]
-[14:05:17] [Server thread/INFO]: [GreggZumbari: The difficulty has been set to Peaceful]
-[14:05:19] [Server thread/INFO]: [GreggZumbari: The difficulty has been set to Hard]
-[14:05:28] [User Authenticator #5/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[14:05:28] [Server thread/INFO]: freerunner588[/73.67.199.247:54753] logged in with entity id 14742 at (-224.29361223704973, 70.0, 257.4471172644563)
-[14:05:28] [Server thread/INFO]: freerunner588 joined the game
-[14:07:34] [Server thread/INFO]: [GreggZumbari: Removed every effect from GreggZumbari]
-[14:07:38] [Server thread/INFO]: [GreggZumbari: Removed 8 items from player GreggZumbari]
-[14:07:54] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:20:24] [Server thread/INFO]: [GreggZumbari: Set own game mode to Creative Mode]
-[14:20:35] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:22:32] [Server thread/INFO]: freerunner588 was blown up by Creeper
-[14:22:42] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[14:23:12] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:25:08] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[14:25:08] [Server thread/INFO]: freerunner588 left the game
-[14:25:08] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
-[14:25:08] [Server thread/INFO]: GreggZumbari left the game
-[14:25:24] [Server thread/INFO]: Kicked Griseous_Claw: Trying to sleep
-[14:25:24] [Server thread/INFO]: Griseous_Claw lost connection: Trying to sleep
-[14:25:24] [Server thread/INFO]: Griseous_Claw left the game
-[14:25:42] [User Authenticator #6/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
-[14:25:42] [Server thread/INFO]: GreggZumbari[/192.168.156.1:51527] logged in with entity id 20450 at (846.3000000119209, 70.0, -120.29350374627236)
-[14:25:42] [Server thread/INFO]: GreggZumbari joined the game
-[14:25:43] [User Authenticator #7/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[14:25:43] [Server thread/INFO]: freerunner588[/73.67.199.247:54872] logged in with entity id 20519 at (-161.35576772081592, 19.0, 325.65173540780006)
-[14:25:43] [Server thread/INFO]: freerunner588 joined the game
-[14:27:05] [Server thread/INFO]: <GreggZumbari> 845 53 -123
-[14:27:15] [User Authenticator #8/INFO]: UUID of player Griseous_Claw is 86672ad4-f5b2-4408-815f-06e31cd9fae3
-[14:27:15] [Server thread/INFO]: Griseous_Claw[/97.120.98.9:50247] logged in with entity id 21000 at (-198.7515304308231, 65.0, 209.07398903479933)
-[14:27:15] [Server thread/INFO]: Griseous_Claw joined the game
-[14:30:52] [Server thread/WARN]: Fetching packet for removed entity axg['Skeleton'/21990, l='world', x=-279.50, y=35.95, z=188.50]
-[14:32:10] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[14:33:18] [Server thread/WARN]: GreggZumbari moved too quickly! -9.337234882263374,1.3562400538921366,4.423846788752741
-[14:33:21] [Server thread/WARN]: GreggZumbari moved too quickly! -6.041721035035266,3.7500001490088835,-8.200470965256187
-[14:34:40] [Server thread/INFO]: Griseous_Claw lost connection: Disconnected
-[14:34:40] [Server thread/INFO]: Griseous_Claw left the game
-[14:35:36] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:36:31] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[14:37:03] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:42:33] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[14:43:08] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:43:58] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[14:44:20] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:47:02] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[14:47:07] [Server thread/INFO]: freerunner588 has made the advancement [The Parrots and the Bats]
-[14:47:08] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[14:48:56] [Server thread/INFO]: GreggZumbari fell from a high place
-[14:49:48] [Server thread/INFO]: [GreggZumbari: Teleported GreggZumbari to 528.5, 38.0, -551.5]
-[14:49:48] [Server thread/WARN]: GreggZumbari moved too quickly! 550.4026904535991,-37.0,-572.1696209102489
-[14:49:48] [Server thread/WARN]: GreggZumbari moved too quickly! 550.4026904535991,-37.0,-572.1696209102489
-[15:05:43] [Server thread/INFO]: [GreggZumbari: Created team [Yellow]]
-[15:06:09] [Server thread/INFO]: [GreggZumbari: Updated the color for team [Yellow] to gold]
-[15:06:18] [Server thread/INFO]: [GreggZumbari: Added freerunner588 to team [Yellow]]
-[15:10:50] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
-[15:10:50] [Server thread/INFO]: GreggZumbari left the game
-[15:16:38] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[15:16:38] [Server thread/INFO]: freerunner588 left the game
-[15:17:29] [User Authenticator #9/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[15:17:29] [Server thread/INFO]: freerunner588[/73.67.199.247:55019] logged in with entity id 34459 at (-290.49091515736893, 69.0, 204.69856250779054)
-[15:17:29] [Server thread/INFO]: freerunner588 joined the game
-[15:17:38] [Server thread/INFO]: <freerunner588> wifi machine broke
-[15:22:19] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[15:22:19] [Server thread/INFO]: freerunner588 left the game
-[15:25:56] [User Authenticator #10/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
-[15:25:56] [Server thread/INFO]: GreggZumbari[/192.168.156.1:51696] logged in with entity id 35935 at (-177.8958523040371, 59.0, 199.27396079731153)
-[15:25:56] [Server thread/INFO]: GreggZumbari joined the game
-[15:31:19] [User Authenticator #11/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[15:31:19] [Server thread/INFO]: freerunner588[/73.67.199.247:55065] logged in with entity id 37122 at (-288.66166920190255, 69.0, 203.17436997978143)
-[15:31:19] [Server thread/INFO]: freerunner588 joined the game
-[15:40:58] [Server thread/INFO]: Starfy100 lost connection: Disconnected
-[15:40:58] [Server thread/INFO]: Starfy100 left the game
-[15:44:13] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[15:44:13] [Server thread/INFO]: freerunner588 left the game
-[15:44:43] [User Authenticator #12/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[15:44:44] [Server thread/INFO]: freerunner588[/73.67.199.247:55136] logged in with entity id 39743 at (-241.60807641070022, 63.162141421026995, 173.69175184375848)
-[15:44:44] [Server thread/INFO]: freerunner588 joined the game
-[15:56:36] [User Authenticator #13/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
-[15:56:36] [Server thread/INFO]: Starfy100[/98.232.163.239:60847] logged in with entity id 42240 at (-213.07526637595052, 109.0, 228.82636818375138)
-[15:56:36] [Server thread/INFO]: Starfy100 joined the game
-[15:58:04] [Server thread/INFO]: [GreggZumbari: Teleported GreggZumbari to freerunner588]
-[15:58:04] [Server thread/WARN]: GreggZumbari moved too quickly! 334.82817972514255,-1.504799122994072,299.1617359566999
-[15:58:04] [Server thread/WARN]: GreggZumbari moved too quickly! 334.82817972514255,-1.504799122994072,299.1617359566999
-[15:58:04] [Server thread/WARN]: GreggZumbari moved too quickly! 334.82817972514255,-1.504799122994072,299.1617359566999
-[15:59:50] [Server thread/INFO]: [GreggZumbari: Teleported GreggZumbari to -735.6230400245248, 64.0, 142.1835649153829]
-[15:59:50] [Server thread/WARN]: GreggZumbari moved too quickly! -500.0,0.0,0.0
-[15:59:50] [Server thread/WARN]: GreggZumbari moved too quickly! -500.0,0.0,0.0
-[16:00:43] [Server thread/INFO]: GreggZumbari has made the advancement [Best Friends Forever]
-[16:01:08] [Server thread/WARN]: Horse moved wrongly!
-[16:04:42] [Server thread/INFO]: <GreggZumbari> -675 64 -291
-[16:05:49] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
-[16:05:49] [Server thread/INFO]: GreggZumbari left the game
-[16:05:56] [User Authenticator #14/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
-[16:05:56] [Server thread/INFO]: GreggZumbari[/127.0.0.1:51818] logged in with entity id 46121 at (-627.6795283606981, 64.8500000178814, -387.3393628225329)
-[16:05:56] [Server thread/INFO]: GreggZumbari joined the game
-[16:09:29] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 4 targets]
-[16:09:40] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[16:09:40] [Server thread/INFO]: freerunner588 left the game
-[16:09:44] [User Authenticator #15/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[16:09:44] [Server thread/INFO]: freerunner588[/73.67.199.247:55264] logged in with entity id 47627 at (-293.89030829092314, 69.0, 192.67425505090705)
-[16:09:44] [Server thread/INFO]: freerunner588 joined the game
-[16:09:50] [Server thread/INFO]: [GreggZumbari: Removed every effect from 546 targets]
-[16:26:21] [Server thread/INFO]: <GreggZumbari> -1975 64 -643
-[16:28:19] [Server thread/WARN]: GreggZumbari moved wrongly!
-[16:31:43] [Server thread/WARN]: GreggZumbari moved wrongly!
-[16:31:53] [Server thread/WARN]: GreggZumbari moved wrongly!
-[16:31:59] [Server thread/WARN]: GreggZumbari moved wrongly!
-[16:32:03] [Server thread/WARN]: GreggZumbari moved wrongly!
-[16:35:24] [Server thread/WARN]: GreggZumbari moved wrongly!
-[16:39:14] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[16:39:21] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[16:39:23] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
-[16:39:23] [Server thread/INFO]: GreggZumbari left the game
-[16:39:28] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[16:39:28] [Server thread/INFO]: freerunner588 left the game
-[16:39:33] [User Authenticator #16/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[16:39:33] [Server thread/INFO]: freerunner588[/73.67.199.247:55383] logged in with entity id 60539 at (-292.09794876153, 69.0, 201.75355797024875)
-[16:39:33] [Server thread/INFO]: freerunner588 joined the game
-[16:39:34] [User Authenticator #17/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
-[16:39:34] [Server thread/INFO]: GreggZumbari[/127.0.0.1:51911] logged in with entity id 60569 at (-1978.300000011921, 51.0, -568.5093101381212)
-[16:39:34] [Server thread/INFO]: GreggZumbari joined the game
-[16:39:54] [Server thread/INFO]: freerunner588 has made the advancement [Best Friends Forever]
-[16:40:25] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[16:40:38] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[16:42:46] [Server thread/WARN]: GreggZumbari moved wrongly!
-[16:43:25] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[16:43:38] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[16:45:03] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[16:46:02] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[16:48:11] [Server thread/INFO]: Starfy100 lost connection: Disconnected
-[16:48:11] [Server thread/INFO]: Starfy100 left the game
-[16:51:27] [Server thread/INFO]: freerunner588 was blown up by Creeper
-[16:53:50] [Server thread/INFO]: freerunner588 was blown up by Creeper
-[16:53:58] [Server thread/INFO]: <GreggZumbari> ha
-[16:56:51] [Server thread/INFO]: <GreggZumbari> SLEEP BINCH
-[17:02:39] [Server thread/INFO]: [GreggZumbari: Teleported freerunner588 to GreggZumbari]
-[17:06:09] [Server thread/WARN]: freerunner588 moved wrongly!
-[17:06:27] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:09:48] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:20:29] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 2 targets]
-[17:20:43] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 2 targets]
-[17:21:14] [Server thread/WARN]: Boat moved wrongly!
-[17:21:15] [Server thread/WARN]: Boat moved wrongly!
-[17:21:15] [Server thread/WARN]: Boat moved wrongly!
-[17:21:15] [Server thread/WARN]: Boat moved wrongly!
-[17:22:17] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:24:00] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:24:03] [Server thread/WARN]: freerunner588 moved wrongly!
-[17:25:26] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:26:48] [Server thread/INFO]: GreggZumbari has made the advancement [Voluntary Exile]
-[17:27:10] [Server thread/INFO]: GreggZumbari has made the advancement [Ol' Betsy]
-[17:29:41] [Server thread/INFO]: [GreggZumbari: Teleported 2 entities to freerunner588]
-[17:29:55] [Server thread/INFO]: [GreggZumbari: Teleported 2 entities to freerunner588]
-[17:31:11] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:32:33] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:32:35] [Server thread/WARN]: freerunner588 moved wrongly!
-[17:32:59] [Server thread/INFO]: [GreggZumbari: Applied effect Regeneration to 2 targets]
-[17:33:02] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:36:12] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:37:00] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:37:24] [Server thread/INFO]: [GreggZumbari: Set own game mode to Spectator Mode]
-[17:37:46] [Server thread/INFO]: [GreggZumbari: Set own game mode to Survival Mode]
-[17:38:21] [Server thread/INFO]: [GreggZumbari: Teleported 2 entities to GreggZumbari]
-[17:38:27] [Server thread/INFO]: [GreggZumbari: Teleported 2 entities to GreggZumbari]
-[17:40:05] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:40:08] [Server thread/WARN]: freerunner588 moved wrongly!
-[17:41:02] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[17:41:02] [Server thread/INFO]: freerunner588 left the game
-[17:41:03] [User Authenticator #18/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[17:41:03] [Server thread/INFO]: freerunner588[/73.67.199.247:55794] logged in with entity id 86876 at (-750.9099923367882, 63.0, 332.3292417167731)
-[17:41:03] [Server thread/INFO]: freerunner588 joined the game
-[17:41:45] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[17:41:45] [Server thread/INFO]: freerunner588 left the game
-[17:41:48] [User Authenticator #19/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
-[17:41:48] [Server thread/INFO]: freerunner588[/73.67.199.247:55823] logged in with entity id 86991 at (-759.2032921236316, 63.0, 334.81113987158506)
-[17:41:48] [Server thread/INFO]: freerunner588 joined the game
-[17:42:07] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:42:51] [Server thread/WARN]: GreggZumbari moved wrongly!
-[17:43:09] [Server thread/WARN]: freerunner588 moved wrongly!
-[17:44:13] [Server thread/WARN]: GreggZumbari moved wrongly!
-[18:03:05] [Server thread/INFO]: [GreggZumbari: Applied effect Glowing to 60 targets]
-[18:12:39] [Server thread/INFO]: [GreggZumbari: Gave 200 experience points to GreggZumbari]
-[18:19:42] [Server thread/INFO]: freerunner588 lost connection: Disconnected
-[18:19:42] [Server thread/INFO]: freerunner588 left the game
-[18:25:18] [Server thread/INFO]: GreggZumbari has made the advancement [Local Brewery]
-[18:26:43] [Server thread/INFO]: GreggZumbari lost connection: Disconnected
-[18:26:43] [Server thread/INFO]: GreggZumbari left the game
-[18:26:52] [Server thread/INFO]: Unknown command
-[18:26:52] [Server thread/INFO]: end<--[HERE]
-[18:26:53] [Server thread/INFO]: Stopping the server
-[18:26:53] [Server thread/INFO]: Stopping server
-[18:26:53] [Server thread/INFO]: Saving players
-[18:26:53] [Server thread/INFO]: Saving worlds
-[18:26:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[18:26:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:26:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[18:26:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:26:53] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[18:26:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:26:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:26:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:26:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:36:44] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:36:44] [Server thread/INFO]: Loading properties
+[22:36:44] [Server thread/INFO]: Default game type: SURVIVAL
+[22:36:44] [Server thread/INFO]: Generating keypair
+[22:36:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:36:44] [Server thread/INFO]: Using default channel type
+[22:36:47] [Server thread/INFO]: Preparing level "world"
+[22:36:47] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:36:48] [Server thread/INFO]: Loaded 6 recipes
+[22:36:48] [Server thread/INFO]: Loaded 825 advancements
+[22:36:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:36:50] [Server thread/INFO]: Preparing spawn area: 0%
+[22:36:50] [Server thread/INFO]: Preparing spawn area: 0%
+[22:36:50] [Server thread/INFO]: Preparing spawn area: 0%
+[22:36:53] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:36:53] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[22:36:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:36:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:36:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[22:36:53] [Server thread/INFO]: Preparing spawn area: 11%
+[22:36:54] [Server thread/INFO]: Time elapsed: 4875 ms
+[22:36:54] [Server thread/INFO]: Done (6.696s)! For help, type "help"
+[22:36:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b1b4464[id=<null>,name=Starfy100,properties={},legacy=false] (/98.232.163.239:53813) lost connection: Disconnected
+[22:36:56] [User Authenticator #1/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[22:36:57] [Server thread/INFO]: Starfy100[/98.232.163.239:53814] logged in with entity id 283 at (-197.52816660208555, 79.23152379758702, 264.8724121197155)
+[22:36:57] [Server thread/INFO]: Starfy100 joined the game
+[22:37:03] [Server thread/INFO]: Stopping the server
+[22:37:03] [Server thread/INFO]: Stopping server
+[22:37:03] [Server thread/INFO]: Saving players
+[22:37:03] [Server thread/INFO]: Starfy100 lost connection: Internal Exception: java.lang.StackOverflowError
+[22:37:03] [Server thread/INFO]: Starfy100 left the game
+[22:37:04] [Server thread/INFO]: Saving worlds
+[22:37:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:37:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:37:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:37:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:37:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -281,6 +281,7 @@
       "cooked_mutton": "2020-03-14 17:52:19 -0700",
       "cooked_beef": "2020-03-15 13:18:18 -0700",
       "beef": "2020-03-14 17:47:31 -0700",
+      "baked_potato": "2020-03-16 22:09:19 -0700",
       "potato": "2020-03-14 17:34:49 -0700",
       "cooked_salmon": "2020-03-14 18:55:07 -0700",
       "carrot": "2020-03-14 17:34:53 -0700"
@@ -737,6 +738,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-14 17:47:09 -0700",
       "minecraft:spider": "2020-03-15 13:39:13 -0700",
+      "minecraft:creeper": "2020-03-16 22:10:58 -0700",
       "minecraft:zombie": "2020-03-15 13:39:32 -0700"
     },
     "done": false
@@ -1373,6 +1375,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2020-03-14 17:40:34 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2020-03-16 22:27:51 -0700"
     },
     "done": true
   },
