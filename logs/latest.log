@@ -1,46 +1,35 @@
-[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:36:44] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:36:44] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[22:36:44] [Server thread/INFO]: Loading properties
-[22:36:44] [Server thread/INFO]: Default game type: SURVIVAL
-[22:36:44] [Server thread/INFO]: Generating keypair
-[22:36:44] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:36:44] [Server thread/INFO]: Using default channel type
-[22:36:47] [Server thread/INFO]: Preparing level "world"
-[22:36:47] [Server thread/INFO]: Reloading ResourceManager: Default
-[22:36:48] [Server thread/INFO]: Loaded 6 recipes
-[22:36:48] [Server thread/INFO]: Loaded 825 advancements
-[22:36:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:36:50] [Server thread/INFO]: Preparing spawn area: 0%
-[22:36:50] [Server thread/INFO]: Preparing spawn area: 0%
-[22:36:50] [Server thread/INFO]: Preparing spawn area: 0%
-[22:36:53] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[22:36:53] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[22:36:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[22:36:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[22:36:53] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[22:36:53] [Server thread/INFO]: Preparing spawn area: 11%
-[22:36:54] [Server thread/INFO]: Time elapsed: 4875 ms
-[22:36:54] [Server thread/INFO]: Done (6.696s)! For help, type "help"
-[22:36:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b1b4464[id=<null>,name=Starfy100,properties={},legacy=false] (/98.232.163.239:53813) lost connection: Disconnected
-[22:36:56] [User Authenticator #1/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
-[22:36:57] [Server thread/INFO]: Starfy100[/98.232.163.239:53814] logged in with entity id 283 at (-197.52816660208555, 79.23152379758702, 264.8724121197155)
-[22:36:57] [Server thread/INFO]: Starfy100 joined the game
-[22:37:03] [Server thread/INFO]: Stopping the server
-[22:37:03] [Server thread/INFO]: Stopping server
-[22:37:03] [Server thread/INFO]: Saving players
-[22:37:03] [Server thread/INFO]: Starfy100 lost connection: Internal Exception: java.lang.StackOverflowError
-[22:37:03] [Server thread/INFO]: Starfy100 left the game
-[22:37:04] [Server thread/INFO]: Saving worlds
-[22:37:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:37:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:37:04] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:37:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:37:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:37:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:18:59] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:18:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:18:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:18:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:18:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:18:59] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[23:18:59] [Server thread/INFO]: Loading properties
+[23:18:59] [Server thread/INFO]: Default game type: SURVIVAL
+[23:18:59] [Server thread/INFO]: Generating keypair
+[23:18:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:18:59] [Server thread/INFO]: Using default channel type
+[23:19:00] [Server thread/INFO]: Preparing level "world"
+[23:19:00] [Server thread/INFO]: Reloading ResourceManager: Default
+[23:19:00] [Server thread/INFO]: Loaded 6 recipes
+[23:19:01] [Server thread/INFO]: Loaded 825 advancements
+[23:19:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:19:02] [Server thread/INFO]: Preparing spawn area: 0%
+[23:19:02] [Server thread/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[23:19:06] [Server thread/INFO]: Time elapsed: 4932 ms
+[23:19:06] [Server thread/INFO]: Done (6.224s)! For help, type "help"
+[23:48:43] [Server thread/INFO]: There are 0 of a max 69 players online: 
+[23:53:06] [User Authenticator #1/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[23:54:34] [Server Watchdog/FATAL]: A single server tick took 60.01 seconds (should be max 0.05)
+[23:53:34] [Server thread/INFO]: com.mojang.authlib.GameProfile@35d1b0a5[id=d8b82d92-fbdd-4577-8998-6792eda7c9d0,name=Starfy100,properties={textures=[com.mojang.authlib.properties.Property@23ee7301]},legacy=false] (/98.232.163.239:51018) lost connection: Disconnected
+[23:58:50] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[23:58:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 315455ms or 6309 ticks behind
+[23:58:50] [Server Watchdog/ERROR]: This crash report has been saved to: C:\Users\gregg\OneDrive\Desktop\Minecraft Server 1.15.2\.\crash-reports\crash-2020-03-17_23.58.50-server.txt
