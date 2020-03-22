@@ -1,0 +1,469 @@
+[14:10:42] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:10:51] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:10:51] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:10:51] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:10:51] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[14:10:51] [Server thread/INFO]: Loading properties
+[14:10:51] [Server thread/INFO]: Default game type: SURVIVAL
+[14:10:51] [Server thread/INFO]: Generating keypair
+[14:10:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:10:51] [Server thread/INFO]: Using default channel type
+[14:10:52] [Server thread/INFO]: Preparing level "world"
+[14:10:52] [Server thread/INFO]: Reloading ResourceManager: Default
+[14:10:52] [Server thread/INFO]: Loaded 6 recipes
+[14:10:52] [Server thread/INFO]: Loaded 825 advancements
+[14:10:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:10:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:10:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:10:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:10:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:10:55] [Server thread/INFO]: Preparing spawn area: 83%
+[14:10:55] [Server thread/INFO]: Time elapsed: 2246 ms
+[14:10:55] [Server thread/INFO]: Done (3.209s)! For help, type "help"
+[14:10:56] [Server thread/INFO]: Unknown command
+[14:10:56] [Server thread/INFO]: helhelp<--[HERE]
+[14:10:59] [Server thread/INFO]: /advancement (grant|revoke)
+[14:10:59] [Server thread/INFO]: /ban <targets> [<reason>]
+[14:10:59] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[14:10:59] [Server thread/INFO]: /banlist [ips|players]
+[14:10:59] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[14:10:59] [Server thread/INFO]: /clear [<targets>]
+[14:10:59] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[14:10:59] [Server thread/INFO]: /data (get|merge|modify|remove)
+[14:10:59] [Server thread/INFO]: /datapack (disable|enable|list)
+[14:10:59] [Server thread/INFO]: /debug (report|start|stop)
+[14:10:59] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[14:10:59] [Server thread/INFO]: /deop <targets>
+[14:10:59] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[14:10:59] [Server thread/INFO]: /effect (clear|give)
+[14:10:59] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[14:10:59] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[14:10:59] [Server thread/INFO]: /experience (add|query|set)
+[14:10:59] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[14:10:59] [Server thread/INFO]: /forceload (add|query|remove)
+[14:10:59] [Server thread/INFO]: /function <name>
+[14:10:59] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[14:10:59] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[14:10:59] [Server thread/INFO]: /give <targets> <item> [<count>]
+[14:10:59] [Server thread/INFO]: /help [<command>]
+[14:10:59] [Server thread/INFO]: /kick <targets> [<reason>]
+[14:10:59] [Server thread/INFO]: /kill [<targets>]
+[14:10:59] [Server thread/INFO]: /list [uuids]
+[14:10:59] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[14:10:59] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[14:10:59] [Server thread/INFO]: /me <action>
+[14:10:59] [Server thread/INFO]: /msg <targets> <message>
+[14:10:59] [Server thread/INFO]: /op <targets>
+[14:10:59] [Server thread/INFO]: /pardon <targets>
+[14:10:59] [Server thread/INFO]: /pardon-ip <target>
+[14:10:59] [Server thread/INFO]: /particle <name> [<pos>]
+[14:10:59] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[14:10:59] [Server thread/INFO]: /recipe (give|take)
+[14:10:59] [Server thread/INFO]: /reload
+[14:10:59] [Server thread/INFO]: /replaceitem (block|entity)
+[14:10:59] [Server thread/INFO]: /save-all [flush]
+[14:10:59] [Server thread/INFO]: /save-off
+[14:10:59] [Server thread/INFO]: /save-on
+[14:10:59] [Server thread/INFO]: /say <message>
+[14:10:59] [Server thread/INFO]: /schedule (clear|function)
+[14:10:59] [Server thread/INFO]: /scoreboard (objectives|players)
+[14:10:59] [Server thread/INFO]: /seed
+[14:10:59] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[14:10:59] [Server thread/INFO]: /setidletimeout <minutes>
+[14:10:59] [Server thread/INFO]: /setworldspawn [<pos>]
+[14:10:59] [Server thread/INFO]: /spawnpoint [<targets>]
+[14:10:59] [Server thread/INFO]: /spectate [<target>]
+[14:10:59] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[14:10:59] [Server thread/INFO]: /stop
+[14:10:59] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[14:10:59] [Server thread/INFO]: /summon <entity> [<pos>]
+[14:10:59] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[14:10:59] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[14:10:59] [Server thread/INFO]: /teammsg <message>
+[14:10:59] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[14:10:59] [Server thread/INFO]: /tell -> msg
+[14:10:59] [Server thread/INFO]: /tellraw <targets> <message>
+[14:10:59] [Server thread/INFO]: /time (add|query|set)
+[14:10:59] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[14:10:59] [Server thread/INFO]: /tm -> teammsg
+[14:10:59] [Server thread/INFO]: /tp -> teleport
+[14:10:59] [Server thread/INFO]: /trigger <objective> [add|set]
+[14:10:59] [Server thread/INFO]: /w -> msg
+[14:10:59] [Server thread/INFO]: /weather (clear|rain|thunder)
+[14:10:59] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[14:10:59] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[14:10:59] [Server thread/INFO]: /xp -> experience
+[14:11:17] [Server thread/INFO]: No player was found
+[14:11:22] [Server thread/INFO]: No player was found
+[14:11:52] [Server thread/INFO]: No player was found
+[14:11:56] [Server thread/INFO]: Unknown command
+[14:11:56] [Server thread/INFO]: ban<--[HERE]
+[14:12:02] [Server thread/INFO]: /advancement (grant|revoke)
+[14:12:02] [Server thread/INFO]: /ban <targets> [<reason>]
+[14:12:02] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[14:12:02] [Server thread/INFO]: /banlist [ips|players]
+[14:12:02] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[14:12:02] [Server thread/INFO]: /clear [<targets>]
+[14:12:02] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[14:12:02] [Server thread/INFO]: /data (get|merge|modify|remove)
+[14:12:02] [Server thread/INFO]: /datapack (disable|enable|list)
+[14:12:02] [Server thread/INFO]: /debug (report|start|stop)
+[14:12:02] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[14:12:02] [Server thread/INFO]: /deop <targets>
+[14:12:02] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[14:12:02] [Server thread/INFO]: /effect (clear|give)
+[14:12:02] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[14:12:02] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[14:12:02] [Server thread/INFO]: /experience (add|query|set)
+[14:12:02] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[14:12:02] [Server thread/INFO]: /forceload (add|query|remove)
+[14:12:02] [Server thread/INFO]: /function <name>
+[14:12:02] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[14:12:02] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[14:12:02] [Server thread/INFO]: /give <targets> <item> [<count>]
+[14:12:02] [Server thread/INFO]: /help [<command>]
+[14:12:02] [Server thread/INFO]: /kick <targets> [<reason>]
+[14:12:02] [Server thread/INFO]: /kill [<targets>]
+[14:12:02] [Server thread/INFO]: /list [uuids]
+[14:12:02] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[14:12:02] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[14:12:02] [Server thread/INFO]: /me <action>
+[14:12:02] [Server thread/INFO]: /msg <targets> <message>
+[14:12:02] [Server thread/INFO]: /op <targets>
+[14:12:02] [Server thread/INFO]: /pardon <targets>
+[14:12:02] [Server thread/INFO]: /pardon-ip <target>
+[14:12:02] [Server thread/INFO]: /particle <name> [<pos>]
+[14:12:02] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[14:12:02] [Server thread/INFO]: /recipe (give|take)
+[14:12:02] [Server thread/INFO]: /reload
+[14:12:02] [Server thread/INFO]: /replaceitem (block|entity)
+[14:12:02] [Server thread/INFO]: /save-all [flush]
+[14:12:02] [Server thread/INFO]: /save-off
+[14:12:02] [Server thread/INFO]: /save-on
+[14:12:02] [Server thread/INFO]: /say <message>
+[14:12:02] [Server thread/INFO]: /schedule (clear|function)
+[14:12:02] [Server thread/INFO]: /scoreboard (objectives|players)
+[14:12:02] [Server thread/INFO]: /seed
+[14:12:02] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[14:12:02] [Server thread/INFO]: /setidletimeout <minutes>
+[14:12:02] [Server thread/INFO]: /setworldspawn [<pos>]
+[14:12:02] [Server thread/INFO]: /spawnpoint [<targets>]
+[14:12:02] [Server thread/INFO]: /spectate [<target>]
+[14:12:02] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[14:12:02] [Server thread/INFO]: /stop
+[14:12:02] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[14:12:02] [Server thread/INFO]: /summon <entity> [<pos>]
+[14:12:02] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[14:12:02] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[14:12:02] [Server thread/INFO]: /teammsg <message>
+[14:12:02] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[14:12:02] [Server thread/INFO]: /tell -> msg
+[14:12:02] [Server thread/INFO]: /tellraw <targets> <message>
+[14:12:02] [Server thread/INFO]: /time (add|query|set)
+[14:12:02] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[14:12:02] [Server thread/INFO]: /tm -> teammsg
+[14:12:02] [Server thread/INFO]: /tp -> teleport
+[14:12:02] [Server thread/INFO]: /trigger <objective> [add|set]
+[14:12:02] [Server thread/INFO]: /w -> msg
+[14:12:02] [Server thread/INFO]: /weather (clear|rain|thunder)
+[14:12:02] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[14:12:02] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[14:12:02] [Server thread/INFO]: /xp -> experience
+[14:12:34] [Server thread/INFO]: Unknown command
+[14:12:34] [Server thread/INFO]: ban-ip<--[HERE]
+[14:12:42] [Server thread/INFO]: Unknown command
+[14:12:42] [Server thread/INFO]: /ban-ip<--[HERE]
+[14:12:47] [Server thread/INFO]: Unknown command
+[14:12:47] [Server thread/INFO]: /kick<--[HERE]
+[14:12:50] [Server thread/INFO]: Unknown command
+[14:12:50] [Server thread/INFO]: /tp<--[HERE]
+[14:14:16] [Server thread/INFO]: There are 0 of a max 69 players online: 
+[14:14:23] [Server thread/INFO]: Unknown command
+[14:14:23] [Server thread/INFO]: a<--[HERE]
+[14:14:23] [Server thread/INFO]: Unknown command
+[14:14:23] [Server thread/INFO]: a<--[HERE]
+[14:14:24] [Server thread/INFO]: Unknown command
+[14:14:24] [Server thread/INFO]: a<--[HERE]
+[14:14:25] [Server thread/INFO]: Unknown command
+[14:14:25] [Server thread/INFO]: a<--[HERE]
+[14:14:25] [Server thread/INFO]: Unknown command
+[14:14:25] [Server thread/INFO]: a<--[HERE]
+[14:14:26] [Server thread/INFO]: Unknown command
+[14:14:26] [Server thread/INFO]: a<--[HERE]
+[14:19:30] [Server thread/INFO]: There are 0 of a max 69 players online: 
+[14:54:56] [User Authenticator #1/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[14:54:56] [Server thread/INFO]: Aldder[/50.39.103.127:51832] logged in with entity id 240 at (-221.22080377424567, 104.0, 230.58419250637002)
+[14:54:56] [Server thread/INFO]: Aldder joined the game
+[15:04:36] [User Authenticator #2/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[15:04:36] [Server thread/INFO]: freerunner588[/73.25.214.58:62327] logged in with entity id 2135 at (-301.5412062345291, 73.0, 192.27619199237796)
+[15:04:36] [Server thread/INFO]: freerunner588 joined the game
+[15:08:15] [Server thread/INFO]: Aldder was slain by Zombie
+[15:08:29] [Server thread/INFO]: There are 2 of a max 69 players online: freerunner588, Aldder
+[15:18:47] [Server thread/INFO]: Aldder has made the advancement [Acquire Hardware]
+[15:19:11] [Server thread/INFO]: Aldder has made the advancement [Isn't It Iron Pick]
+[15:20:22] [Server thread/INFO]: freerunner588 tried to swim in lava
+[15:47:16] [Server thread/INFO]: Aldder was shot by Skeleton
+[16:03:56] [Server thread/INFO]: Aldder lost connection: Disconnected
+[16:03:56] [Server thread/INFO]: Aldder left the game
+[16:04:41] [Server thread/INFO]: freerunner588 has made the advancement [Cover Me With Diamonds]
+[16:25:13] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[16:25:13] [Server thread/INFO]: freerunner588 left the game
+[16:31:10] [User Authenticator #3/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[16:31:10] [Server thread/INFO]: Aldder[/50.39.103.127:53425] logged in with entity id 17471 at (-248.69999998807904, 56.0, 122.57635437002118)
+[16:31:10] [Server thread/INFO]: Aldder joined the game
+[16:33:23] [Server thread/INFO]: Aldder was shot by Skeleton
+[16:34:31] [Server thread/INFO]: Aldder was shot by Skeleton
+[16:35:06] [Server thread/INFO]: Aldder was shot by Skeleton
+[16:35:54] [Server thread/INFO]: Aldder was shot by Skeleton
+[16:46:15] [Server thread/INFO]: Aldder was shot by Skeleton
+[16:47:48] [Server thread/INFO]: Aldder lost connection: Disconnected
+[16:47:48] [Server thread/INFO]: Aldder left the game
+[16:51:16] [User Authenticator #4/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[16:51:17] [Server thread/INFO]: Aldder[/50.39.103.127:53558] logged in with entity id 20148 at (-94.05300060732355, 64.0, 137.33163548065693)
+[16:51:17] [Server thread/INFO]: Aldder joined the game
+[16:52:16] [Server thread/INFO]: Aldder was slain by Zombie
+[16:52:26] [User Authenticator #5/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[16:52:27] [Server thread/INFO]: Starfy100[/98.232.163.239:58579] logged in with entity id 20354 at (-2968.6341002367467, 69.0, 796.023448274907)
+[16:52:27] [Server thread/INFO]: Starfy100 joined the game
+[16:55:22] [Server thread/WARN]: Starfy100 moved wrongly!
+[16:57:37] [Server thread/INFO]: Starfy100 lost connection: Disconnected
+[16:57:37] [Server thread/INFO]: Starfy100 left the game
+[16:58:50] [Server thread/INFO]: Aldder was shot by Skeleton
+[17:02:35] [Server thread/INFO]: Aldder has made the advancement [Suit Up]
+[17:28:26] [User Authenticator #6/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[17:28:26] [Server thread/INFO]: Starfy100[/98.232.163.239:58711] logged in with entity id 29254 at (-1828.2007479288063, 69.9375, 617.5001241160927)
+[17:28:26] [Server thread/INFO]: Starfy100 joined the game
+[17:30:33] [Server thread/INFO]: Aldder lost connection: Disconnected
+[17:30:33] [Server thread/INFO]: Aldder left the game
+[17:31:39] [User Authenticator #7/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[17:31:39] [Server thread/INFO]: Aldder[/50.39.103.127:53804] logged in with entity id 30582 at (-193.1643211931276, 32.0, 171.55146191754582)
+[17:31:39] [Server thread/INFO]: Aldder joined the game
+[17:34:11] [Server thread/WARN]: Boat moved wrongly!
+[17:34:11] [Server thread/WARN]: Boat moved wrongly!
+[17:34:11] [Server thread/WARN]: Boat moved wrongly!
+[17:34:11] [Server thread/WARN]: Boat moved wrongly!
+[17:41:53] [Server thread/INFO]: Starfy100 lost connection: Disconnected
+[17:41:53] [Server thread/INFO]: Starfy100 left the game
+[17:55:27] [Server thread/INFO]: Aldder lost connection: Disconnected
+[17:55:27] [Server thread/INFO]: Aldder left the game
+[18:02:36] [User Authenticator #8/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[18:02:36] [Server thread/INFO]: Starfy100[/98.232.163.239:58777] logged in with entity id 36549 at (-812.6118176894631, 68.0, 447.7327620217301)
+[18:02:36] [Server thread/INFO]: Starfy100 joined the game
+[18:05:48] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5f94e508[id=<null>,name=Aldder,properties={},legacy=false] (/50.39.103.127:54156): Took too long to log in
+[18:05:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@5f94e508[id=<null>,name=Aldder,properties={},legacy=false] (/50.39.103.127:54156) lost connection: Timed out
+[18:06:03] [Server thread/INFO]: Starfy100 lost connection: Disconnected
+[18:06:03] [Server thread/INFO]: Starfy100 left the game
+[18:06:12] [User Authenticator #9/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[18:06:12] [Server thread/INFO]: Aldder[/50.39.103.127:54163] logged in with entity id 38135 at (-176.35920682445806, 65.0, 207.48217345517634)
+[18:06:12] [Server thread/INFO]: Aldder joined the game
+[18:13:25] [Server thread/INFO]: Aldder lost connection: Disconnected
+[18:13:25] [Server thread/INFO]: Aldder left the game
+[18:28:44] [User Authenticator #10/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[18:28:44] [Server thread/INFO]: Starfy100[/98.232.163.239:58848] logged in with entity id 38925 at (-213.1495033738315, 109.5625, 230.85931508717874)
+[18:28:44] [Server thread/INFO]: Starfy100 joined the game
+[19:06:17] [User Authenticator #11/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[19:06:17] [Server thread/INFO]: Aldder[/50.39.103.127:54486] logged in with entity id 43359 at (-177.5848280949903, 58.0, 198.69999998807907)
+[19:06:17] [Server thread/INFO]: Aldder joined the game
+[19:14:22] [Server thread/INFO]: Aldder lost connection: Disconnected
+[19:14:22] [Server thread/INFO]: Aldder left the game
+[19:15:36] [User Authenticator #12/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[19:15:36] [Server thread/INFO]: Aldder[/50.39.103.127:54582] logged in with entity id 45077 at (-183.8191461122707, 64.0, 136.4475954255009)
+[19:15:36] [Server thread/INFO]: Aldder joined the game
+[19:16:45] [Server thread/INFO]: Aldder was shot by Skeleton
+[19:34:23] [Server thread/INFO]: Starfy100 has made the advancement [Fishy Business]
+[19:39:47] [Server thread/INFO]: Starfy100 fell from a high place
+[19:48:12] [Server thread/WARN]: Horse moved wrongly!
+[19:48:12] [Server thread/INFO]: Aldder has made the advancement [Best Friends Forever]
+[19:48:12] [Server thread/WARN]: Horse moved wrongly!
+[19:48:13] [Server thread/WARN]: Horse moved wrongly!
+[19:48:14] [Server thread/WARN]: Horse moved wrongly!
+[19:48:14] [Server thread/WARN]: Horse moved wrongly!
+[19:48:30] [Server thread/WARN]: Aldder moved wrongly!
+[19:55:55] [Server thread/INFO]: Aldder was shot by Skeleton
+[19:58:22] [Server thread/INFO]: Aldder was shot by Skeleton
+[20:04:18] [Server thread/INFO]: Starfy100 lost connection: Disconnected
+[20:04:18] [Server thread/INFO]: Starfy100 left the game
+[20:06:11] [User Authenticator #13/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[20:06:11] [Server thread/INFO]: Starfy100[/98.232.163.239:59369] logged in with entity id 54084 at (-121.80831581142024, 52.0, 620.2129482946041)
+[20:06:11] [Server thread/INFO]: Starfy100 joined the game
+[20:08:58] [Server thread/WARN]: Starfy100 moved wrongly!
+[20:17:24] [Server thread/INFO]: <Starfy100> whatchu doin?
+[20:17:36] [Server thread/INFO]: <Aldder> I am building a protective wall
+[20:32:16] [User Authenticator #14/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[20:32:16] [Server thread/INFO]: freerunner588[/73.25.214.58:64334] logged in with entity id 60972 at (-291.3619317676613, 65.0, 202.038335736482)
+[20:32:16] [Server thread/INFO]: freerunner588 joined the game
+[20:44:08] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/65183, l='world', x=-245.19, y=48.38, z=121.14]
+[20:45:16] [Server thread/INFO]: Aldder has made the advancement [Ol' Betsy]
+[20:50:39] [Server thread/WARN]: freerunner588 moved wrongly!
+[20:52:09] [Server thread/WARN]: freerunner588 moved wrongly!
+[20:52:49] [Server thread/WARN]: freerunner588 moved wrongly!
+[20:54:50] [Server thread/WARN]: freerunner588 moved wrongly!
+[20:57:46] [Server thread/INFO]: Aldder lost connection: Disconnected
+[20:57:46] [Server thread/INFO]: Aldder left the game
+[20:57:48] [Server thread/INFO]: <Starfy100> can yall go to sleep please?
+[20:58:07] [Server thread/INFO]: <freerunner588> waiting on u
+[20:58:17] [Server thread/INFO]: <Starfy100> thx
+[20:58:58] [User Authenticator #15/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[20:58:58] [Server thread/INFO]: Aldder[/50.39.103.127:55693] logged in with entity id 69833 at (-242.0298856737517, 63.0, 125.06652180236287)
+[20:58:58] [Server thread/INFO]: Aldder joined the game
+[21:00:05] [Server thread/INFO]: Aldder lost connection: Disconnected
+[21:00:05] [Server thread/INFO]: Aldder left the game
+[21:01:39] [User Authenticator #16/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[21:01:39] [Server thread/INFO]: Aldder[/50.39.103.127:55715] logged in with entity id 70688 at (-221.37074781199848, 63.0, 121.60232515407131)
+[21:01:39] [Server thread/INFO]: Aldder joined the game
+[21:07:10] [Server thread/INFO]: Aldder lost connection: Disconnected
+[21:07:10] [Server thread/INFO]: Aldder left the game
+[21:12:52] [Server thread/INFO]: <freerunner588> thank for business
+[21:22:26] [Server thread/INFO]: <Starfy100> ill be back
+[21:22:27] [Server thread/INFO]: Starfy100 lost connection: Disconnected
+[21:22:27] [Server thread/INFO]: Starfy100 left the game
+[21:22:29] [Server thread/INFO]: <freerunner588> mk
+[21:24:29] [User Authenticator #17/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
+[21:24:29] [Server thread/INFO]: Aldder[/50.39.103.127:55892] logged in with entity id 76103 at (-267.7317045105808, 64.0, 149.38828948447045)
+[21:24:29] [Server thread/INFO]: Aldder joined the game
+[21:25:02] [Server thread/INFO]: Aldder lost connection: Timed out
+[21:25:02] [Server thread/INFO]: Aldder left the game
+[21:25:56] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[21:25:56] [Server thread/INFO]: freerunner588 left the game
+[21:26:21] [User Authenticator #18/INFO]: UUID of player freerunner588 is 7102a86e-a561-4391-b6ba-321729a68575
+[21:26:21] [Server thread/INFO]: freerunner588[/73.25.214.58:65301] logged in with entity id 76464 at (-599.6999999880791, 61.0, 348.30000001192093)
+[21:26:21] [Server thread/INFO]: freerunner588 joined the game
+[21:26:26] [Server thread/INFO]: There are 1 of a max 69 players online: freerunner588
+[21:28:34] [Server thread/INFO]: freerunner588 lost connection: Disconnected
+[21:28:34] [Server thread/INFO]: freerunner588 left the game
+[21:37:13] [User Authenticator #19/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[21:37:13] [Server thread/INFO]: Starfy100[/98.232.163.239:59533] logged in with entity id 76897 at (-188.72539639468496, 52.0, 490.3753403616418)
+[21:37:13] [Server thread/INFO]: Starfy100 joined the game
+[21:37:36] [Server thread/WARN]: Starfy100 moved wrongly!
+[21:39:35] [Server thread/WARN]: Starfy100 moved too quickly! 0.0,-11.338809969270628,0.0
+[21:45:06] [Server thread/INFO]: There are 1 of a max 69 players online: Starfy100
+[22:38:02] [Server thread/INFO]: There are 1 of a max 69 players online: Starfy100
+[22:38:14] [Server thread/INFO]: Incorrect argument for command
+[22:38:14] [Server thread/INFO]: ...scoreboard <--[HERE]
+[22:38:29] [Server thread/INFO]: /advancement (grant|revoke)
+[22:38:29] [Server thread/INFO]: /ban <targets> [<reason>]
+[22:38:29] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[22:38:29] [Server thread/INFO]: /banlist [ips|players]
+[22:38:29] [Server thread/INFO]: /bossbar (add|get|list|remove|set)
+[22:38:29] [Server thread/INFO]: /clear [<targets>]
+[22:38:29] [Server thread/INFO]: /clone <begin> <end> <destination> [filtered|masked|replace]
+[22:38:29] [Server thread/INFO]: /data (get|merge|modify|remove)
+[22:38:29] [Server thread/INFO]: /datapack (disable|enable|list)
+[22:38:29] [Server thread/INFO]: /debug (report|start|stop)
+[22:38:29] [Server thread/INFO]: /defaultgamemode (adventure|creative|spectator|survival)
+[22:38:29] [Server thread/INFO]: /deop <targets>
+[22:38:29] [Server thread/INFO]: /difficulty [easy|hard|normal|peaceful]
+[22:38:29] [Server thread/INFO]: /effect (clear|give)
+[22:38:29] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[22:38:29] [Server thread/INFO]: /execute (align|anchored|as|at|facing|if|in|positioned|rotated|run|store|unless)
+[22:38:29] [Server thread/INFO]: /experience (add|query|set)
+[22:38:29] [Server thread/INFO]: /fill <from> <to> <block> [destroy|hollow|keep|outline|replace]
+[22:38:29] [Server thread/INFO]: /forceload (add|query|remove)
+[22:38:29] [Server thread/INFO]: /function <name>
+[22:38:29] [Server thread/INFO]: /gamemode (adventure|creative|spectator|survival)
+[22:38:29] [Server thread/INFO]: /gamerule (announceAdvancements|commandBlockOutput|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|keepInventory|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobGriefing|naturalRegeneration|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|spawnRadius|spectatorsGenerateChunks)
+[22:38:29] [Server thread/INFO]: /give <targets> <item> [<count>]
+[22:38:29] [Server thread/INFO]: /help [<command>]
+[22:38:29] [Server thread/INFO]: /kick <targets> [<reason>]
+[22:38:29] [Server thread/INFO]: /kill [<targets>]
+[22:38:29] [Server thread/INFO]: /list [uuids]
+[22:38:29] [Server thread/INFO]: /locate (Buried_Treasure|Desert_Pyramid|EndCity|Fortress|Igloo|Jungle_Pyramid|Mansion|Mineshaft|Monument|Ocean_Ruin|Pillager_Outpost|Shipwreck|Stronghold|Swamp_Hut|Village)
+[22:38:29] [Server thread/INFO]: /loot (give|insert|replace|spawn)
+[22:38:29] [Server thread/INFO]: /me <action>
+[22:38:29] [Server thread/INFO]: /msg <targets> <message>
+[22:38:29] [Server thread/INFO]: /op <targets>
+[22:38:29] [Server thread/INFO]: /pardon <targets>
+[22:38:29] [Server thread/INFO]: /pardon-ip <target>
+[22:38:29] [Server thread/INFO]: /particle <name> [<pos>]
+[22:38:29] [Server thread/INFO]: /playsound <sound> (ambient|block|hostile|master|music|neutral|player|record|voice|weather)
+[22:38:29] [Server thread/INFO]: /recipe (give|take)
+[22:38:29] [Server thread/INFO]: /reload
+[22:38:29] [Server thread/INFO]: /replaceitem (block|entity)
+[22:38:29] [Server thread/INFO]: /save-all [flush]
+[22:38:29] [Server thread/INFO]: /save-off
+[22:38:29] [Server thread/INFO]: /save-on
+[22:38:29] [Server thread/INFO]: /say <message>
+[22:38:29] [Server thread/INFO]: /schedule (clear|function)
+[22:38:29] [Server thread/INFO]: /scoreboard (objectives|players)
+[22:38:29] [Server thread/INFO]: /seed
+[22:38:29] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[22:38:29] [Server thread/INFO]: /setidletimeout <minutes>
+[22:38:29] [Server thread/INFO]: /setworldspawn [<pos>]
+[22:38:29] [Server thread/INFO]: /spawnpoint [<targets>]
+[22:38:29] [Server thread/INFO]: /spectate [<target>]
+[22:38:29] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> <respectTeams> <targets>
+[22:38:29] [Server thread/INFO]: /stop
+[22:38:29] [Server thread/INFO]: /stopsound <targets> [*|ambient|block|hostile|master|music|neutral|player|record|voice|weather]
+[22:38:29] [Server thread/INFO]: /summon <entity> [<pos>]
+[22:38:29] [Server thread/INFO]: /tag <targets> (add|list|remove)
+[22:38:29] [Server thread/INFO]: /team (add|empty|join|leave|list|modify|remove)
+[22:38:29] [Server thread/INFO]: /teammsg <message>
+[22:38:29] [Server thread/INFO]: /teleport (<destination>|<location>|<targets>)
+[22:38:29] [Server thread/INFO]: /tell -> msg
+[22:38:29] [Server thread/INFO]: /tellraw <targets> <message>
+[22:38:29] [Server thread/INFO]: /time (add|query|set)
+[22:38:29] [Server thread/INFO]: /title <targets> (actionbar|clear|reset|subtitle|times|title)
+[22:38:29] [Server thread/INFO]: /tm -> teammsg
+[22:38:29] [Server thread/INFO]: /tp -> teleport
+[22:38:29] [Server thread/INFO]: /trigger <objective> [add|set]
+[22:38:29] [Server thread/INFO]: /w -> msg
+[22:38:29] [Server thread/INFO]: /weather (clear|rain|thunder)
+[22:38:29] [Server thread/INFO]: /whitelist (add|list|off|on|reload|remove)
+[22:38:29] [Server thread/INFO]: /worldborder (add|center|damage|get|set|warning)
+[22:38:29] [Server thread/INFO]: /xp -> experience
+[22:38:44] [Server thread/INFO]: Incorrect argument for command
+[22:38:44] [Server thread/INFO]: ...d players @a list Deaths<--[HERE]
+[22:38:58] [Server thread/INFO]: Incorrect argument for command
+[22:38:58] [Server thread/INFO]: ...d players @a add Deaths 0<--[HERE]
+[22:39:01] [Server thread/INFO]: Incorrect argument for command
+[22:39:01] [Server thread/INFO]: ...d players @a add Deaths<--[HERE]
+[22:39:16] [Server thread/INFO]: Unknown command
+[22:39:16] [Server thread/INFO]: ...d Deaths 0<--[HERE]
+[22:39:21] [Server thread/INFO]: Unknown command
+[22:39:21] [Server thread/INFO]: ...layers add<--[HERE]
+[22:39:23] [Server thread/INFO]: Incorrect argument for command
+[22:39:23] [Server thread/INFO]: ...d players @a<--[HERE]
+[22:39:49] [Server thread/INFO]: You whisper to Starfy100: The order listens...
+[22:40:13] [Server thread/INFO]: <Starfy100> WHO GOES THERE??
+[22:40:35] [Server thread/INFO]: You whisper to Starfy100: We have been watching you for a long time now...
+[22:41:02] [Server thread/INFO]: You whisper to Starfy100: You will be the perfect sacrifice.
+[22:41:09] [Server thread/INFO]: <Starfy100> NOOOOOOO
+[22:41:42] [Server thread/INFO]: You whisper to Starfy100: Come with us willingly, and the Lord may spare you...
+[22:42:11] [Server thread/INFO]: <Starfy100> what will you have me do?
+[22:43:06] [Server thread/INFO]: You whisper to Starfy100: We will take your essence.
+[22:43:14] [Server thread/INFO]: You whisper to Starfy100: Not your cum.
+[22:43:18] [Server thread/INFO]: You whisper to Starfy100: Your essence.
+[22:43:32] [Server thread/INFO]: You whisper to Starfy100: Actually we'll take your cum too.
+[22:43:43] [Server thread/INFO]: <Starfy100> My...BALLS???
+[22:43:58] [Server thread/INFO]: You whisper to Starfy100: Close...
+[22:44:04] [Server thread/INFO]: You whisper to Starfy100: Your foreskin.
+[22:44:50] [Server thread/INFO]: <Starfy100> AAAAAARRRRGGGHHH
+[22:44:55] [Server thread/INFO]: You whisper to Starfy100: It must be taken by the holy guillotine of Suran, blessed by our lord and savior years ago...
+[22:45:36] [Server thread/INFO]: You whisper to Starfy100: It is time.
+[22:45:41] [Server thread/INFO]: You whisper to Starfy100: Come with us now.
+[22:45:54] [Server thread/INFO]: <Starfy100> Where?
+[22:45:58] [Server thread/INFO]: Applied effect Nausea to Starfy100
+[22:46:09] [Server thread/INFO]: You whisper to Starfy100: That knowledge is not necessary.
+[22:46:17] [Server thread/INFO]: You whisper to Starfy100: It will all be over soon.
+[22:46:22] [Server thread/INFO]: Applied effect Nausea to Starfy100
+[22:46:34] [Server thread/INFO]: Applied effect Blindness to Starfy100
+[22:46:36] [Server thread/INFO]: <Starfy100> aa-, my head
+[22:46:39] [Server thread/INFO]: Applied effect Nausea to Starfy100
+[22:46:58] [Server thread/INFO]: Applied effect Absorption to Starfy100
+[22:47:14] [Server thread/INFO]: You whisper to Starfy100: NANI? His foreskin is resisting...
+[22:47:18] [Server thread/INFO]: Applied effect Absorption to Starfy100
+[22:47:24] [Server thread/INFO]: <Starfy100> I AM ENVIGORATED
+[22:47:30] [Server thread/INFO]: Unknown command
+[22:47:30] [Server thread/INFO]: <--[HERE]
+[22:47:39] [Server thread/INFO]: You whisper to Starfy100: It's growing stronger!
+[22:47:53] [Server thread/INFO]: You whisper to Starfy100: NOOOOOOOOoooooooo o o oo o... *dying noises*
+[22:48:17] [Server thread/INFO]: <Starfy100> SHOW YOURSELF, TRICKSTER COWARD
+[22:48:23] [Server thread/INFO]: [Server] Wait how many hearts did that give you?
+[22:48:33] [Server thread/INFO]: <Starfy100> 14
+[22:48:37] [Server thread/INFO]: Unknown command
+[22:48:37] [Server thread/INFO]: HOOO DAMN<--[HERE]
+[22:48:40] [Server thread/INFO]: [Server] HOOO DAMN
+[22:49:11] [Server thread/INFO]: [Server] I'm not actually playing, I just got bored doing homework and I thought I might fuck with whoever's on my server
+[22:49:33] [Server thread/INFO]: <Starfy100> can you appear physically?
+[22:49:39] [Server thread/INFO]: [Server] Enjoy the health!
+[22:49:44] [Server thread/INFO]: [Server] Back to work I go

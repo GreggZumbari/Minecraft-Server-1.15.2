@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2020-03-21 22:01:45 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-13 23:27:15 -0700"
@@ -391,6 +397,7 @@
       "apple": "2020-03-15 13:35:25 -0700",
       "bread": "2020-03-13 22:52:16 -0700",
       "mushroom_stew": "2020-03-17 22:02:42 -0700",
+      "cooked_salmon": "2020-03-20 16:52:52 -0700",
       "carrot": "2020-03-13 23:24:05 -0700"
     },
     "done": false
@@ -422,6 +429,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2020-03-13 22:57:38 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2020-03-20 19:34:23 -0700"
     },
     "done": true
   },
@@ -625,7 +638,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:mooshroom": "2020-03-16 22:10:37 -0700"
+      "minecraft:pig": "2020-03-21 22:05:03 -0700",
+      "minecraft:mooshroom": "2020-03-16 22:10:37 -0700",
+      "minecraft:cow": "2020-03-20 18:46:14 -0700"
     },
     "done": false
   },
@@ -692,6 +707,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-14 20:02:41 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-03-21 21:55:10 -0700"
     },
     "done": true
   },
@@ -875,6 +896,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-03-20 20:24:38 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-13 22:44:51 -0700"
@@ -1022,6 +1049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2020-03-20 22:48:55 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-13 22:44:51 -0700"
@@ -1055,6 +1088,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2020-03-14 20:24:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-03-21 20:01:53 -0700"
     },
     "done": true
   },
@@ -1115,6 +1154,18 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2020-03-13 22:49:56 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2020-03-20 19:34:23 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-03-20 18:35:04 -0700"
     },
     "done": true
   },
@@ -1223,6 +1274,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2020-03-17 00:40:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-03-20 20:24:38 -0700"
     },
     "done": true
   },
@@ -1448,6 +1505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-03-21 20:01:53 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-03-13 23:23:39 -0700"
@@ -1517,6 +1580,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-03-14 20:24:07 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-03-20 20:24:38 -0700"
     },
     "done": true
   },
@@ -1640,6 +1709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2020-03-21 20:04:59 -0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2020-03-13 23:22:40 -0700"
@@ -1673,6 +1748,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2020-03-16 22:22:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-03-21 20:01:53 -0700"
     },
     "done": true
   },
@@ -1717,6 +1798,7 @@
       "minecraft:giant_tree_taiga": "2020-03-17 22:29:52 -0700",
       "minecraft:deep_cold_ocean": "2020-03-17 22:36:12 -0700",
       "minecraft:desert": "2020-03-17 20:50:22 -0700",
+      "minecraft:birch_forest": "2020-03-20 20:01:57 -0700",
       "minecraft:deep_lukewarm_ocean": "2020-03-17 22:06:32 -0700",
       "minecraft:savanna_plateau": "2020-03-17 21:00:09 -0700",
       "minecraft:beach": "2020-03-17 20:53:12 -0700",
@@ -1858,6 +1940,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-03-20 18:35:04 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-03-14 20:02:41 -0700"
@@ -1891,6 +1979,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2020-03-13 23:14:09 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2020-03-20 19:34:23 -0700"
     },
     "done": true
   },
@@ -1945,6 +2039,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2020-03-17 00:40:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2020-03-20 19:34:23 -0700"
     },
     "done": true
   },
