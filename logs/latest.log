@@ -1,61 +1,44 @@
-[22:16:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:17:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:17:00] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:17:00] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:17:00] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:17:00] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[22:17:00] [Server thread/INFO]: Loading properties
-[22:17:00] [Server thread/INFO]: Default game type: SURVIVAL
-[22:17:00] [Server thread/INFO]: Generating keypair
-[22:17:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:17:00] [Server thread/INFO]: Using default channel type
-[22:17:01] [Server thread/INFO]: Preparing level "world"
-[22:17:01] [Server thread/INFO]: Reloading ResourceManager: Default
-[22:17:01] [Server thread/INFO]: Loaded 6 recipes
-[22:17:01] [Server thread/INFO]: Loaded 825 advancements
-[22:17:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:17:02] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:02] [Server thread/INFO]: Preparing spawn area: 0%
-[22:17:03] [Server thread/INFO]: Time elapsed: 1223 ms
-[22:17:03] [Server thread/INFO]: Done (1.929s)! For help, type "help"
-[22:17:03] [User Authenticator #1/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
-[22:17:04] [Server thread/INFO]: Starfy100[/98.232.163.239:51623] logged in with entity id 246 at (-224.09919493905525, 66.00133597911214, 209.85168991487353)
-[22:17:04] [Server thread/INFO]: Starfy100 joined the game
-[22:17:11] [User Authenticator #2/INFO]: UUID of player GreggZumbari is 94223c67-e0bd-47dd-89ad-27fa86e1f910
-[22:17:11] [Server thread/INFO]: GreggZumbari[/192.168.156.1:57611] logged in with entity id 371 at (-3256.9878900433973, 70.0, 2286.8686908592313)
-[22:17:11] [Server thread/INFO]: GreggZumbari joined the game
-[22:17:11] [User Authenticator #3/INFO]: UUID of player UrbanLogic is 6ba6f72e-9a80-4512-a8e1-7838f086e4cd
-[22:17:11] [Server thread/INFO]: UrbanLogic[/75.164.195.214:63954] logged in with entity id 373 at (-181.21189233488627, 71.0, 209.54944916871233)
-[22:17:11] [Server thread/INFO]: UrbanLogic joined the game
-[22:17:23] [User Authenticator #4/INFO]: UUID of player Aldder is a25e7d34-f06b-4f9a-8c1b-f495280d564b
-[22:17:23] [Server thread/INFO]: Aldder[/50.39.103.127:55722] logged in with entity id 681 at (-167.72036483550124, 66.0, 196.68794697195503)
-[22:17:23] [Server thread/INFO]: Aldder joined the game
-[22:17:23] [Server thread/INFO]: <UrbanLogic> ????
-[22:17:27] [Server thread/INFO]: <UrbanLogic> ??
-[22:17:32] [Server thread/INFO]: <UrbanLogic> ?????
-[22:17:33] [Server thread/INFO]: [GreggZumbari: Teleported GreggZumbari to Aldder]
-[22:17:33] [Server thread/WARN]: GreggZumbari moved too quickly! 3104.6515962363887,-4.567299122994072,-2101.378926821702
-[22:17:33] [Server thread/WARN]: GreggZumbari moved too quickly! 3104.6515962363887,-4.567299122994072,-2101.378926821702
-[22:17:37] [Server thread/INFO]: <UrbanLogic> Yeet
-[22:18:21] [User Authenticator #5/INFO]: UUID of player Griseous_Claw is 86672ad4-f5b2-4408-815f-06e31cd9fae3
-[22:18:21] [Server thread/INFO]: Griseous_Claw[/97.120.98.9:54019] logged in with entity id 833 at (-169.244785085069, 67.0, 178.77384888012634)
-[22:18:21] [Server thread/INFO]: Griseous_Claw joined the game
-[22:22:17] [Server thread/INFO]: <GreggZumbari> q
-[22:22:18] [Server thread/INFO]: <Aldder> aswedasda
-[22:22:19] [Server thread/INFO]: <GreggZumbari> qtqtqt
-[22:22:19] [Server thread/INFO]: <Aldder> sad
-[22:22:21] [Server thread/INFO]: <GreggZumbari> q
-[22:22:22] [Server thread/INFO]: <GreggZumbari> q
-[22:22:22] [Server thread/INFO]: <GreggZumbari> q
-[22:22:24] [Server thread/INFO]: <Starfy100> wotwgfhawoijaslawqwpi2q0ejp0erkemypo3k[wvkse mbpw jvqtig[qa\w4tpbqw,[ aogwk3
-[22:22:26] [Server thread/INFO]: <Aldder> ssda
-[22:22:27] [Server thread/INFO]: <Aldder> t
-[22:22:27] [Server thread/INFO]: <Aldder> st
-[22:22:28] [Server thread/INFO]: <Aldder> z
-[22:22:29] [Server thread/INFO]: <Aldder> t
-[22:22:30] [Server thread/INFO]: <Aldder> t
-[22:22:30] [Server thread/INFO]: <Aldder> t
-[22:22:34] [Server thread/INFO]: <Aldder> tt
-[22:22:34] [Server thread/INFO]: <Aldder> t
-[22:22:35] [Server thread/INFO]: <Aldder> t
-[22:22:35] [Server thread/INFO]: <UrbanLogic> What's 2+2? [26528accbb8c882bc9de7366c90f826c]
+[18:54:12] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:54:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:54:12] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:54:12] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:54:12] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:54:12] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[18:54:12] [Server thread/INFO]: Loading properties
+[18:54:12] [Server thread/INFO]: Default game type: SURVIVAL
+[18:54:12] [Server thread/INFO]: Generating keypair
+[18:54:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:54:12] [Server thread/INFO]: Using default channel type
+[18:54:15] [Server thread/INFO]: Preparing level "world"
+[18:54:15] [Server thread/INFO]: Reloading ResourceManager: Default
+[18:54:16] [Server thread/INFO]: Loaded 6 recipes
+[18:54:16] [Server thread/INFO]: Loaded 825 advancements
+[18:54:17] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:54:18] [Server thread/INFO]: Preparing spawn area: 0%
+[18:54:18] [Server thread/INFO]: Preparing spawn area: 0%
+[18:54:18] [Server thread/INFO]: Preparing spawn area: 0%
+[18:54:20] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[18:54:20] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:54:20] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[18:54:20] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:54:20] [Server thread/INFO]: Time elapsed: 3610 ms
+[18:54:20] [Server thread/INFO]: Done (5.112s)! For help, type "help"
+[19:18:02] [User Authenticator #1/INFO]: UUID of player Starfy100 is d8b82d92-fbdd-4577-8998-6792eda7c9d0
+[19:18:02] [Server thread/INFO]: Starfy100[/98.232.163.239:59714] logged in with entity id 219 at (-201.66311344150898, 52.200000047683716, 476.35280094577854)
+[19:18:02] [Server thread/INFO]: Starfy100 joined the game
+[20:10:17] [Server thread/INFO]: There are 1 of a max 69 players online: Starfy100
+[20:12:36] [Server thread/INFO]: Starfy100 lost connection: Disconnected
+[20:12:36] [Server thread/INFO]: Starfy100 left the game
+[20:13:45] [Server thread/INFO]: Stopping the server
+[20:13:45] [Server thread/INFO]: Stopping server
+[20:13:45] [Server thread/INFO]: Saving players
+[20:13:45] [Server thread/INFO]: Saving worlds
+[20:13:45] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:13:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -796,6 +796,7 @@
     "criteria": {
       "minecraft:skeleton": "2020-03-21 21:30:08 -0700",
       "minecraft:spider": "2020-03-21 21:32:45 -0700",
+      "minecraft:creeper": "2020-03-21 22:35:21 -0700",
       "minecraft:zombie": "2020-03-21 21:29:23 -0700"
     },
     "done": false
