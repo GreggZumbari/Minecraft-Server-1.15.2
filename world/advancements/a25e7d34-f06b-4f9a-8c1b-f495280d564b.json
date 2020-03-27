@@ -400,6 +400,7 @@
       "cooked_mutton": "2020-03-21 20:53:51 -0700",
       "baked_potato": "2020-03-17 20:52:57 -0700",
       "apple": "2020-03-17 20:16:37 -0700",
+      "potato": "2020-03-25 14:50:55 -0700",
       "poisonous_potato": "2020-03-17 20:15:48 -0700",
       "mutton": "2020-03-17 21:38:42 -0700",
       "bread": "2020-03-17 20:24:58 -0700",
@@ -611,6 +612,12 @@
       "has_bed": "2020-03-21 20:10:26 -0700"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:mooshroom": "2020-03-25 14:40:40 -0700"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
@@ -1765,6 +1772,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-03-25 14:40:23 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2020-03-20 15:20:20 -0700"
@@ -1858,6 +1871,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-20 15:28:28 -0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-03-25 14:40:40 -0700"
     },
     "done": true
   },
